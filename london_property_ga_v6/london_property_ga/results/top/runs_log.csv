@@ -1,0 +1,1291 @@
+experiment,method,setting,seed,profit,reached_optimum,best_generation,evaluations_to_best,total_evaluations
+exp1,GA,repair mutation=0.01,0,2270034.99,True,0.0,14,4850
+exp1,GA,repair mutation=0.01,1,2270034.99,True,0.0,6,4850
+exp1,GA,repair mutation=0.01,2,2270034.99,True,2.0,117,4850
+exp1,GA,repair mutation=0.01,3,2270034.99,True,1.0,88,4850
+exp1,GA,repair mutation=0.01,4,2238109.99,False,1.0,89,4850
+exp1,GA,repair mutation=0.01,5,2270034.99,True,2.0,104,4850
+exp1,GA,repair mutation=0.01,6,2270034.99,True,0.0,36,4850
+exp1,GA,repair mutation=0.01,7,2270034.99,True,0.0,8,4850
+exp1,GA,repair mutation=0.01,8,2238109.99,False,0.0,4,4850
+exp1,GA,repair mutation=0.01,9,2269326.0,False,0.0,25,4850
+exp1,GA,repair mutation=0.01,10,2270034.99,True,0.0,48,4850
+exp1,GA,repair mutation=0.01,11,2270034.99,True,0.0,42,4850
+exp1,GA,repair mutation=0.01,12,2270034.99,True,0.0,6,4850
+exp1,GA,repair mutation=0.01,13,2270034.99,True,0.0,11,4850
+exp1,GA,repair mutation=0.01,14,2270034.99,True,0.0,5,4850
+exp1,GA,repair mutation=0.01,15,2270034.99,True,0.0,18,4850
+exp1,GA,repair mutation=0.01,16,2269326.0,False,1.0,55,4850
+exp1,GA,repair mutation=0.01,17,2238109.99,False,2.0,146,4850
+exp1,GA,repair mutation=0.01,18,2270034.99,True,0.0,22,4850
+exp1,GA,repair mutation=0.01,19,2270034.99,True,0.0,20,4850
+exp1,GA,repair mutation=0.01,20,2270034.99,True,0.0,15,4850
+exp1,GA,repair mutation=0.01,21,2265004.0,False,1.0,96,4850
+exp1,GA,repair mutation=0.01,22,2270034.99,True,1.0,91,4850
+exp1,GA,repair mutation=0.01,23,2269326.0,False,1.0,86,4850
+exp1,GA,repair mutation=0.01,24,2270034.99,True,3.0,157,4850
+exp1,GA,repair mutation=0.01,25,2270034.99,True,46.0,2242,4850
+exp1,GA,repair mutation=0.01,26,2270034.99,True,0.0,12,4850
+exp1,GA,repair mutation=0.01,27,2270034.99,True,0.0,8,4850
+exp1,GA,repair mutation=0.01,28,2270034.99,True,0.0,42,4850
+exp1,GA,repair mutation=0.01,29,2270034.99,True,2.0,107,4850
+exp1,GA,repair mutation=0.05,0,2270034.99,True,0.0,14,4850
+exp1,GA,repair mutation=0.05,1,2270034.99,True,0.0,6,4850
+exp1,GA,repair mutation=0.05,2,2270034.99,True,1.0,97,4850
+exp1,GA,repair mutation=0.05,3,2270034.99,True,1.0,69,4850
+exp1,GA,repair mutation=0.05,4,2270034.99,True,11.0,575,4850
+exp1,GA,repair mutation=0.05,5,2270034.99,True,7.0,366,4850
+exp1,GA,repair mutation=0.05,6,2270034.99,True,0.0,36,4850
+exp1,GA,repair mutation=0.05,7,2270034.99,True,0.0,8,4850
+exp1,GA,repair mutation=0.05,8,2270034.99,True,1.0,88,4850
+exp1,GA,repair mutation=0.05,9,2270034.99,True,61.0,2969,4850
+exp1,GA,repair mutation=0.05,10,2270034.99,True,0.0,48,4850
+exp1,GA,repair mutation=0.05,11,2270034.99,True,0.0,42,4850
+exp1,GA,repair mutation=0.05,12,2270034.99,True,0.0,6,4850
+exp1,GA,repair mutation=0.05,13,2270034.99,True,0.0,11,4850
+exp1,GA,repair mutation=0.05,14,2270034.99,True,0.0,5,4850
+exp1,GA,repair mutation=0.05,15,2270034.99,True,0.0,18,4850
+exp1,GA,repair mutation=0.05,16,2270034.99,True,22.0,1095,4850
+exp1,GA,repair mutation=0.05,17,2270034.99,True,2.0,135,4850
+exp1,GA,repair mutation=0.05,18,2270034.99,True,0.0,22,4850
+exp1,GA,repair mutation=0.05,19,2270034.99,True,0.0,20,4850
+exp1,GA,repair mutation=0.05,20,2270034.99,True,0.0,15,4850
+exp1,GA,repair mutation=0.05,21,2270034.99,True,1.0,53,4850
+exp1,GA,repair mutation=0.05,22,2270034.99,True,1.0,57,4850
+exp1,GA,repair mutation=0.05,23,2270034.99,True,3.0,170,4850
+exp1,GA,repair mutation=0.05,24,2270034.99,True,3.0,157,4850
+exp1,GA,repair mutation=0.05,25,2270034.99,True,2.0,133,4850
+exp1,GA,repair mutation=0.05,26,2270034.99,True,0.0,12,4850
+exp1,GA,repair mutation=0.05,27,2270034.99,True,0.0,8,4850
+exp1,GA,repair mutation=0.05,28,2270034.99,True,0.0,42,4850
+exp1,GA,repair mutation=0.05,29,2270034.99,True,1.0,96,4850
+exp1,GA,repair mutation=0.1,0,2270034.99,True,0.0,14,4850
+exp1,GA,repair mutation=0.1,1,2270034.99,True,0.0,6,4850
+exp1,GA,repair mutation=0.1,2,2270034.99,True,1.0,97,4850
+exp1,GA,repair mutation=0.1,3,2270034.99,True,1.0,57,4850
+exp1,GA,repair mutation=0.1,4,2270034.99,True,2.0,110,4850
+exp1,GA,repair mutation=0.1,5,2270034.99,True,6.0,320,4850
+exp1,GA,repair mutation=0.1,6,2270034.99,True,0.0,36,4850
+exp1,GA,repair mutation=0.1,7,2270034.99,True,0.0,8,4850
+exp1,GA,repair mutation=0.1,8,2270034.99,True,3.0,191,4850
+exp1,GA,repair mutation=0.1,9,2270034.99,True,2.0,102,4850
+exp1,GA,repair mutation=0.1,10,2270034.99,True,0.0,48,4850
+exp1,GA,repair mutation=0.1,11,2270034.99,True,0.0,42,4850
+exp1,GA,repair mutation=0.1,12,2270034.99,True,0.0,6,4850
+exp1,GA,repair mutation=0.1,13,2270034.99,True,0.0,11,4850
+exp1,GA,repair mutation=0.1,14,2270034.99,True,0.0,5,4850
+exp1,GA,repair mutation=0.1,15,2270034.99,True,0.0,18,4850
+exp1,GA,repair mutation=0.1,16,2270034.99,True,1.0,52,4850
+exp1,GA,repair mutation=0.1,17,2270034.99,True,2.0,135,4850
+exp1,GA,repair mutation=0.1,18,2270034.99,True,0.0,22,4850
+exp1,GA,repair mutation=0.1,19,2270034.99,True,0.0,20,4850
+exp1,GA,repair mutation=0.1,20,2270034.99,True,0.0,15,4850
+exp1,GA,repair mutation=0.1,21,2270034.99,True,1.0,53,4850
+exp1,GA,repair mutation=0.1,22,2270034.99,True,2.0,136,4850
+exp1,GA,repair mutation=0.1,23,2270034.99,True,2.0,111,4850
+exp1,GA,repair mutation=0.1,24,2270034.99,True,3.0,165,4850
+exp1,GA,repair mutation=0.1,25,2270034.99,True,2.0,140,4850
+exp1,GA,repair mutation=0.1,26,2270034.99,True,0.0,12,4850
+exp1,GA,repair mutation=0.1,27,2270034.99,True,0.0,8,4850
+exp1,GA,repair mutation=0.1,28,2270034.99,True,0.0,42,4850
+exp1,GA,repair mutation=0.1,29,2270034.99,True,1.0,96,4850
+exp1,GA,penalty mutation=0.01,0,2270034.99,True,25.0,1215,4850
+exp1,GA,penalty mutation=0.01,1,2270034.99,True,43.0,2107,4850
+exp1,GA,penalty mutation=0.01,2,2270034.99,True,18.0,881,4850
+exp1,GA,penalty mutation=0.01,3,2270034.99,True,11.0,560,4850
+exp1,GA,penalty mutation=0.01,4,2270034.99,True,23.0,1134,4850
+exp1,GA,penalty mutation=0.01,5,2227714.99,False,11.0,578,4850
+exp1,GA,penalty mutation=0.01,6,2270034.99,True,15.0,742,4850
+exp1,GA,penalty mutation=0.01,7,2227714.99,False,17.0,842,4850
+exp1,GA,penalty mutation=0.01,8,2238109.99,False,17.0,827,4850
+exp1,GA,penalty mutation=0.01,9,2238109.99,False,20.0,972,4850
+exp1,GA,penalty mutation=0.01,10,2270034.99,True,52.0,2519,4850
+exp1,GA,penalty mutation=0.01,11,2196985.99,False,8.0,405,4850
+exp1,GA,penalty mutation=0.01,12,2269326.0,False,19.0,941,4850
+exp1,GA,penalty mutation=0.01,13,2270034.99,True,24.0,1199,4850
+exp1,GA,penalty mutation=0.01,14,2227714.99,False,6.0,332,4850
+exp1,GA,penalty mutation=0.01,15,2265004.0,False,71.0,3447,4850
+exp1,GA,penalty mutation=0.01,16,2265004.0,False,11.0,565,4850
+exp1,GA,penalty mutation=0.01,17,2270034.99,True,28.0,1355,4850
+exp1,GA,penalty mutation=0.01,18,2196985.99,False,26.0,1282,4850
+exp1,GA,penalty mutation=0.01,19,2270034.99,True,12.0,625,4850
+exp1,GA,penalty mutation=0.01,20,2112320.0,False,65.0,3159,4850
+exp1,GA,penalty mutation=0.01,21,2270034.99,True,13.0,658,4850
+exp1,GA,penalty mutation=0.01,22,2270034.99,True,85.0,4124,4850
+exp1,GA,penalty mutation=0.01,23,2227714.99,False,35.0,1684,4850
+exp1,GA,penalty mutation=0.01,24,1967417.99,False,93.0,4484,4850
+exp1,GA,penalty mutation=0.01,25,2270034.99,True,29.0,1403,4850
+exp1,GA,penalty mutation=0.01,26,2270034.99,True,15.0,736,4850
+exp1,GA,penalty mutation=0.01,27,2227714.99,False,21.0,1049,4850
+exp1,GA,penalty mutation=0.01,28,2270034.99,True,12.0,615,4850
+exp1,GA,penalty mutation=0.01,29,2270034.99,True,10.0,506,4850
+exp1,GA,penalty mutation=0.05,0,2270034.99,True,13.0,642,4850
+exp1,GA,penalty mutation=0.05,1,2270034.99,True,16.0,800,4850
+exp1,GA,penalty mutation=0.05,2,2270034.99,True,18.0,902,4850
+exp1,GA,penalty mutation=0.05,3,2270034.99,True,15.0,765,4850
+exp1,GA,penalty mutation=0.05,4,2270034.99,True,11.0,574,4850
+exp1,GA,penalty mutation=0.05,5,2270034.99,True,16.0,813,4850
+exp1,GA,penalty mutation=0.05,6,2270034.99,True,33.0,1625,4850
+exp1,GA,penalty mutation=0.05,7,2270034.99,True,7.0,376,4850
+exp1,GA,penalty mutation=0.05,8,2270034.99,True,9.0,451,4850
+exp1,GA,penalty mutation=0.05,9,2270034.99,True,28.0,1364,4850
+exp1,GA,penalty mutation=0.05,10,2270034.99,True,22.0,1092,4850
+exp1,GA,penalty mutation=0.05,11,2270034.99,True,18.0,886,4850
+exp1,GA,penalty mutation=0.05,12,2270034.99,True,19.0,932,4850
+exp1,GA,penalty mutation=0.05,13,2270034.99,True,12.0,617,4850
+exp1,GA,penalty mutation=0.05,14,2270034.99,True,12.0,601,4850
+exp1,GA,penalty mutation=0.05,15,2270034.99,True,16.0,783,4850
+exp1,GA,penalty mutation=0.05,16,2270034.99,True,11.0,538,4850
+exp1,GA,penalty mutation=0.05,17,2270034.99,True,18.0,888,4850
+exp1,GA,penalty mutation=0.05,18,2270034.99,True,38.0,1830,4850
+exp1,GA,penalty mutation=0.05,19,2270034.99,True,31.0,1530,4850
+exp1,GA,penalty mutation=0.05,20,2270034.99,True,23.0,1125,4850
+exp1,GA,penalty mutation=0.05,21,2270034.99,True,13.0,629,4850
+exp1,GA,penalty mutation=0.05,22,2270034.99,True,32.0,1576,4850
+exp1,GA,penalty mutation=0.05,23,2270034.99,True,22.0,1072,4850
+exp1,GA,penalty mutation=0.05,24,2270034.99,True,10.0,491,4850
+exp1,GA,penalty mutation=0.05,25,2270034.99,True,16.0,776,4850
+exp1,GA,penalty mutation=0.05,26,2270034.99,True,14.0,705,4850
+exp1,GA,penalty mutation=0.05,27,2270034.99,True,21.0,1012,4850
+exp1,GA,penalty mutation=0.05,28,2270034.99,True,14.0,675,4850
+exp1,GA,penalty mutation=0.05,29,2270034.99,True,69.0,3352,4850
+exp1,GA,penalty mutation=0.1,0,2270034.99,True,72.0,3464,4850
+exp1,GA,penalty mutation=0.1,1,2270034.99,True,51.0,2471,4850
+exp1,GA,penalty mutation=0.1,2,2270034.99,True,30.0,1487,4850
+exp1,GA,penalty mutation=0.1,3,2270034.99,True,54.0,2601,4850
+exp1,GA,penalty mutation=0.1,4,2270034.99,True,16.0,800,4850
+exp1,GA,penalty mutation=0.1,5,2270034.99,True,43.0,2114,4850
+exp1,GA,penalty mutation=0.1,6,2270034.99,True,19.0,929,4850
+exp1,GA,penalty mutation=0.1,7,2270034.99,True,19.0,916,4850
+exp1,GA,penalty mutation=0.1,8,2270034.99,True,25.0,1206,4850
+exp1,GA,penalty mutation=0.1,9,2270034.99,True,9.0,475,4850
+exp1,GA,penalty mutation=0.1,10,2270034.99,True,38.0,1855,4850
+exp1,GA,penalty mutation=0.1,11,2270034.99,True,15.0,758,4850
+exp1,GA,penalty mutation=0.1,12,2270034.99,True,59.0,2852,4850
+exp1,GA,penalty mutation=0.1,13,2270034.99,True,26.0,1275,4850
+exp1,GA,penalty mutation=0.1,14,2270034.99,True,33.0,1620,4850
+exp1,GA,penalty mutation=0.1,15,2270034.99,True,30.0,1461,4850
+exp1,GA,penalty mutation=0.1,16,2270034.99,True,31.0,1509,4850
+exp1,GA,penalty mutation=0.1,17,2270034.99,True,19.0,961,4850
+exp1,GA,penalty mutation=0.1,18,2270034.99,True,81.0,3909,4850
+exp1,GA,penalty mutation=0.1,19,2270034.99,True,26.0,1255,4850
+exp1,GA,penalty mutation=0.1,20,2270034.99,True,23.0,1145,4850
+exp1,GA,penalty mutation=0.1,21,2270034.99,True,33.0,1625,4850
+exp1,GA,penalty mutation=0.1,22,2270034.99,True,34.0,1666,4850
+exp1,GA,penalty mutation=0.1,23,2270034.99,True,20.0,975,4850
+exp1,GA,penalty mutation=0.1,24,2270034.99,True,59.0,2858,4850
+exp1,GA,penalty mutation=0.1,25,2270034.99,True,65.0,3161,4850
+exp1,GA,penalty mutation=0.1,26,2270034.99,True,15.0,767,4850
+exp1,GA,penalty mutation=0.1,27,2270034.99,True,20.0,964,4850
+exp1,GA,penalty mutation=0.1,28,2270034.99,True,22.0,1060,4850
+exp1,GA,penalty mutation=0.1,29,2270034.99,True,25.0,1227,4850
+exp2,GA,repair pop=20 gens=100,0,2270034.99,True,0.0,14,1820
+exp2,GA,repair pop=20 gens=100,1,2270034.99,True,0.0,6,1820
+exp2,GA,repair pop=20 gens=100,2,2269326.0,False,0.0,8,1820
+exp2,GA,repair pop=20 gens=100,3,2270034.99,True,1.0,32,1820
+exp2,GA,repair pop=20 gens=100,4,2270034.99,True,61.0,1107,1820
+exp2,GA,repair pop=20 gens=100,5,2270034.99,True,31.0,578,1820
+exp2,GA,repair pop=20 gens=100,6,2270034.99,True,36.0,656,1820
+exp2,GA,repair pop=20 gens=100,7,2270034.99,True,0.0,8,1820
+exp2,GA,repair pop=20 gens=100,8,2270034.99,True,3.0,72,1820
+exp2,GA,repair pop=20 gens=100,9,2270034.99,True,41.0,741,1820
+exp2,GA,repair pop=20 gens=100,10,2270034.99,True,5.0,104,1820
+exp2,GA,repair pop=20 gens=100,11,2270034.99,True,2.0,56,1820
+exp2,GA,repair pop=20 gens=100,12,2270034.99,True,0.0,6,1820
+exp2,GA,repair pop=20 gens=100,13,2270034.99,True,0.0,11,1820
+exp2,GA,repair pop=20 gens=100,14,2270034.99,True,0.0,5,1820
+exp2,GA,repair pop=20 gens=100,15,2270034.99,True,0.0,18,1820
+exp2,GA,repair pop=20 gens=100,16,2270034.99,True,2.0,56,1820
+exp2,GA,repair pop=20 gens=100,17,2270034.99,True,15.0,287,1820
+exp2,GA,repair pop=20 gens=100,18,2270034.99,True,15.0,276,1820
+exp2,GA,repair pop=20 gens=100,19,2270034.99,True,0.0,20,1820
+exp2,GA,repair pop=20 gens=100,20,2270034.99,True,0.0,15,1820
+exp2,GA,repair pop=20 gens=100,21,2270034.99,True,32.0,589,1820
+exp2,GA,repair pop=20 gens=100,22,2270034.99,True,82.0,1487,1820
+exp2,GA,repair pop=20 gens=100,23,2270034.99,True,1.0,37,1820
+exp2,GA,repair pop=20 gens=100,24,2270034.99,True,7.0,131,1820
+exp2,GA,repair pop=20 gens=100,25,2270034.99,True,4.0,88,1820
+exp2,GA,repair pop=20 gens=100,26,2270034.99,True,0.0,12,1820
+exp2,GA,repair pop=20 gens=100,27,2270034.99,True,0.0,8,1820
+exp2,GA,repair pop=20 gens=100,28,2270034.99,True,47.0,855,1820
+exp2,GA,repair pop=20 gens=100,29,2270034.99,True,4.0,91,1820
+exp2,GA,repair pop=20 gens=276,0,2270034.99,True,0.0,14,4988
+exp2,GA,repair pop=20 gens=276,1,2270034.99,True,0.0,6,4988
+exp2,GA,repair pop=20 gens=276,2,2269326.0,False,0.0,8,4988
+exp2,GA,repair pop=20 gens=276,3,2270034.99,True,1.0,32,4988
+exp2,GA,repair pop=20 gens=276,4,2270034.99,True,61.0,1107,4988
+exp2,GA,repair pop=20 gens=276,5,2270034.99,True,31.0,578,4988
+exp2,GA,repair pop=20 gens=276,6,2270034.99,True,36.0,656,4988
+exp2,GA,repair pop=20 gens=276,7,2270034.99,True,0.0,8,4988
+exp2,GA,repair pop=20 gens=276,8,2270034.99,True,3.0,72,4988
+exp2,GA,repair pop=20 gens=276,9,2270034.99,True,41.0,741,4988
+exp2,GA,repair pop=20 gens=276,10,2270034.99,True,5.0,104,4988
+exp2,GA,repair pop=20 gens=276,11,2270034.99,True,2.0,56,4988
+exp2,GA,repair pop=20 gens=276,12,2270034.99,True,0.0,6,4988
+exp2,GA,repair pop=20 gens=276,13,2270034.99,True,0.0,11,4988
+exp2,GA,repair pop=20 gens=276,14,2270034.99,True,0.0,5,4988
+exp2,GA,repair pop=20 gens=276,15,2270034.99,True,0.0,18,4988
+exp2,GA,repair pop=20 gens=276,16,2270034.99,True,2.0,56,4988
+exp2,GA,repair pop=20 gens=276,17,2270034.99,True,15.0,287,4988
+exp2,GA,repair pop=20 gens=276,18,2270034.99,True,15.0,276,4988
+exp2,GA,repair pop=20 gens=276,19,2270034.99,True,0.0,20,4988
+exp2,GA,repair pop=20 gens=276,20,2270034.99,True,0.0,15,4988
+exp2,GA,repair pop=20 gens=276,21,2270034.99,True,32.0,589,4988
+exp2,GA,repair pop=20 gens=276,22,2270034.99,True,82.0,1487,4988
+exp2,GA,repair pop=20 gens=276,23,2270034.99,True,1.0,37,4988
+exp2,GA,repair pop=20 gens=276,24,2270034.99,True,7.0,131,4988
+exp2,GA,repair pop=20 gens=276,25,2270034.99,True,4.0,88,4988
+exp2,GA,repair pop=20 gens=276,26,2270034.99,True,0.0,12,4988
+exp2,GA,repair pop=20 gens=276,27,2270034.99,True,0.0,8,4988
+exp2,GA,repair pop=20 gens=276,28,2270034.99,True,47.0,855,4988
+exp2,GA,repair pop=20 gens=276,29,2270034.99,True,4.0,91,4988
+exp2,GA,repair pop=50 gens=100,0,2270034.99,True,0.0,14,4850
+exp2,GA,repair pop=50 gens=100,1,2270034.99,True,0.0,6,4850
+exp2,GA,repair pop=50 gens=100,2,2270034.99,True,1.0,97,4850
+exp2,GA,repair pop=50 gens=100,3,2270034.99,True,1.0,69,4850
+exp2,GA,repair pop=50 gens=100,4,2270034.99,True,11.0,575,4850
+exp2,GA,repair pop=50 gens=100,5,2270034.99,True,7.0,366,4850
+exp2,GA,repair pop=50 gens=100,6,2270034.99,True,0.0,36,4850
+exp2,GA,repair pop=50 gens=100,7,2270034.99,True,0.0,8,4850
+exp2,GA,repair pop=50 gens=100,8,2270034.99,True,1.0,88,4850
+exp2,GA,repair pop=50 gens=100,9,2270034.99,True,61.0,2969,4850
+exp2,GA,repair pop=50 gens=100,10,2270034.99,True,0.0,48,4850
+exp2,GA,repair pop=50 gens=100,11,2270034.99,True,0.0,42,4850
+exp2,GA,repair pop=50 gens=100,12,2270034.99,True,0.0,6,4850
+exp2,GA,repair pop=50 gens=100,13,2270034.99,True,0.0,11,4850
+exp2,GA,repair pop=50 gens=100,14,2270034.99,True,0.0,5,4850
+exp2,GA,repair pop=50 gens=100,15,2270034.99,True,0.0,18,4850
+exp2,GA,repair pop=50 gens=100,16,2270034.99,True,22.0,1095,4850
+exp2,GA,repair pop=50 gens=100,17,2270034.99,True,2.0,135,4850
+exp2,GA,repair pop=50 gens=100,18,2270034.99,True,0.0,22,4850
+exp2,GA,repair pop=50 gens=100,19,2270034.99,True,0.0,20,4850
+exp2,GA,repair pop=50 gens=100,20,2270034.99,True,0.0,15,4850
+exp2,GA,repair pop=50 gens=100,21,2270034.99,True,1.0,53,4850
+exp2,GA,repair pop=50 gens=100,22,2270034.99,True,1.0,57,4850
+exp2,GA,repair pop=50 gens=100,23,2270034.99,True,3.0,170,4850
+exp2,GA,repair pop=50 gens=100,24,2270034.99,True,3.0,157,4850
+exp2,GA,repair pop=50 gens=100,25,2270034.99,True,2.0,133,4850
+exp2,GA,repair pop=50 gens=100,26,2270034.99,True,0.0,12,4850
+exp2,GA,repair pop=50 gens=100,27,2270034.99,True,0.0,8,4850
+exp2,GA,repair pop=50 gens=100,28,2270034.99,True,0.0,42,4850
+exp2,GA,repair pop=50 gens=100,29,2270034.99,True,1.0,96,4850
+exp2,GA,repair pop=50 gens=103,0,2270034.99,True,0.0,14,4994
+exp2,GA,repair pop=50 gens=103,1,2270034.99,True,0.0,6,4994
+exp2,GA,repair pop=50 gens=103,2,2270034.99,True,1.0,97,4994
+exp2,GA,repair pop=50 gens=103,3,2270034.99,True,1.0,69,4994
+exp2,GA,repair pop=50 gens=103,4,2270034.99,True,11.0,575,4994
+exp2,GA,repair pop=50 gens=103,5,2270034.99,True,7.0,366,4994
+exp2,GA,repair pop=50 gens=103,6,2270034.99,True,0.0,36,4994
+exp2,GA,repair pop=50 gens=103,7,2270034.99,True,0.0,8,4994
+exp2,GA,repair pop=50 gens=103,8,2270034.99,True,1.0,88,4994
+exp2,GA,repair pop=50 gens=103,9,2270034.99,True,61.0,2969,4994
+exp2,GA,repair pop=50 gens=103,10,2270034.99,True,0.0,48,4994
+exp2,GA,repair pop=50 gens=103,11,2270034.99,True,0.0,42,4994
+exp2,GA,repair pop=50 gens=103,12,2270034.99,True,0.0,6,4994
+exp2,GA,repair pop=50 gens=103,13,2270034.99,True,0.0,11,4994
+exp2,GA,repair pop=50 gens=103,14,2270034.99,True,0.0,5,4994
+exp2,GA,repair pop=50 gens=103,15,2270034.99,True,0.0,18,4994
+exp2,GA,repair pop=50 gens=103,16,2270034.99,True,22.0,1095,4994
+exp2,GA,repair pop=50 gens=103,17,2270034.99,True,2.0,135,4994
+exp2,GA,repair pop=50 gens=103,18,2270034.99,True,0.0,22,4994
+exp2,GA,repair pop=50 gens=103,19,2270034.99,True,0.0,20,4994
+exp2,GA,repair pop=50 gens=103,20,2270034.99,True,0.0,15,4994
+exp2,GA,repair pop=50 gens=103,21,2270034.99,True,1.0,53,4994
+exp2,GA,repair pop=50 gens=103,22,2270034.99,True,1.0,57,4994
+exp2,GA,repair pop=50 gens=103,23,2270034.99,True,3.0,170,4994
+exp2,GA,repair pop=50 gens=103,24,2270034.99,True,3.0,157,4994
+exp2,GA,repair pop=50 gens=103,25,2270034.99,True,2.0,133,4994
+exp2,GA,repair pop=50 gens=103,26,2270034.99,True,0.0,12,4994
+exp2,GA,repair pop=50 gens=103,27,2270034.99,True,0.0,8,4994
+exp2,GA,repair pop=50 gens=103,28,2270034.99,True,0.0,42,4994
+exp2,GA,repair pop=50 gens=103,29,2270034.99,True,1.0,96,4994
+exp2,GA,repair pop=100 gens=100,0,2270034.99,True,0.0,14,9900
+exp2,GA,repair pop=100 gens=100,1,2270034.99,True,0.0,6,9900
+exp2,GA,repair pop=100 gens=100,2,2270034.99,True,0.0,61,9900
+exp2,GA,repair pop=100 gens=100,3,2270034.99,True,2.0,286,9900
+exp2,GA,repair pop=100 gens=100,4,2270034.99,True,1.0,122,9900
+exp2,GA,repair pop=100 gens=100,5,2270034.99,True,1.0,180,9900
+exp2,GA,repair pop=100 gens=100,6,2270034.99,True,0.0,36,9900
+exp2,GA,repair pop=100 gens=100,7,2270034.99,True,0.0,8,9900
+exp2,GA,repair pop=100 gens=100,8,2270034.99,True,1.0,153,9900
+exp2,GA,repair pop=100 gens=100,9,2270034.99,True,0.0,57,9900
+exp2,GA,repair pop=100 gens=100,10,2270034.99,True,0.0,48,9900
+exp2,GA,repair pop=100 gens=100,11,2270034.99,True,0.0,42,9900
+exp2,GA,repair pop=100 gens=100,12,2270034.99,True,0.0,6,9900
+exp2,GA,repair pop=100 gens=100,13,2270034.99,True,0.0,11,9900
+exp2,GA,repair pop=100 gens=100,14,2270034.99,True,0.0,5,9900
+exp2,GA,repair pop=100 gens=100,15,2270034.99,True,0.0,18,9900
+exp2,GA,repair pop=100 gens=100,16,2270034.99,True,1.0,157,9900
+exp2,GA,repair pop=100 gens=100,17,2270034.99,True,2.0,218,9900
+exp2,GA,repair pop=100 gens=100,18,2270034.99,True,0.0,22,9900
+exp2,GA,repair pop=100 gens=100,19,2270034.99,True,0.0,20,9900
+exp2,GA,repair pop=100 gens=100,20,2270034.99,True,0.0,15,9900
+exp2,GA,repair pop=100 gens=100,21,2270034.99,True,0.0,68,9900
+exp2,GA,repair pop=100 gens=100,22,2270034.99,True,0.0,60,9900
+exp2,GA,repair pop=100 gens=100,23,2270034.99,True,2.0,243,9900
+exp2,GA,repair pop=100 gens=100,24,2270034.99,True,0.0,83,9900
+exp2,GA,repair pop=100 gens=100,25,2270034.99,True,1.0,139,9900
+exp2,GA,repair pop=100 gens=100,26,2270034.99,True,0.0,12,9900
+exp2,GA,repair pop=100 gens=100,27,2270034.99,True,0.0,8,9900
+exp2,GA,repair pop=100 gens=100,28,2270034.99,True,0.0,42,9900
+exp2,GA,repair pop=100 gens=100,29,2270034.99,True,3.0,302,9900
+exp2,GA,repair pop=100 gens=50,0,2270034.99,True,0.0,14,5000
+exp2,GA,repair pop=100 gens=50,1,2270034.99,True,0.0,6,5000
+exp2,GA,repair pop=100 gens=50,2,2270034.99,True,0.0,61,5000
+exp2,GA,repair pop=100 gens=50,3,2270034.99,True,2.0,286,5000
+exp2,GA,repair pop=100 gens=50,4,2270034.99,True,1.0,122,5000
+exp2,GA,repair pop=100 gens=50,5,2270034.99,True,1.0,180,5000
+exp2,GA,repair pop=100 gens=50,6,2270034.99,True,0.0,36,5000
+exp2,GA,repair pop=100 gens=50,7,2270034.99,True,0.0,8,5000
+exp2,GA,repair pop=100 gens=50,8,2270034.99,True,1.0,153,5000
+exp2,GA,repair pop=100 gens=50,9,2270034.99,True,0.0,57,5000
+exp2,GA,repair pop=100 gens=50,10,2270034.99,True,0.0,48,5000
+exp2,GA,repair pop=100 gens=50,11,2270034.99,True,0.0,42,5000
+exp2,GA,repair pop=100 gens=50,12,2270034.99,True,0.0,6,5000
+exp2,GA,repair pop=100 gens=50,13,2270034.99,True,0.0,11,5000
+exp2,GA,repair pop=100 gens=50,14,2270034.99,True,0.0,5,5000
+exp2,GA,repair pop=100 gens=50,15,2270034.99,True,0.0,18,5000
+exp2,GA,repair pop=100 gens=50,16,2270034.99,True,1.0,157,5000
+exp2,GA,repair pop=100 gens=50,17,2270034.99,True,2.0,218,5000
+exp2,GA,repair pop=100 gens=50,18,2270034.99,True,0.0,22,5000
+exp2,GA,repair pop=100 gens=50,19,2270034.99,True,0.0,20,5000
+exp2,GA,repair pop=100 gens=50,20,2270034.99,True,0.0,15,5000
+exp2,GA,repair pop=100 gens=50,21,2270034.99,True,0.0,68,5000
+exp2,GA,repair pop=100 gens=50,22,2270034.99,True,0.0,60,5000
+exp2,GA,repair pop=100 gens=50,23,2270034.99,True,2.0,243,5000
+exp2,GA,repair pop=100 gens=50,24,2270034.99,True,0.0,83,5000
+exp2,GA,repair pop=100 gens=50,25,2270034.99,True,1.0,139,5000
+exp2,GA,repair pop=100 gens=50,26,2270034.99,True,0.0,12,5000
+exp2,GA,repair pop=100 gens=50,27,2270034.99,True,0.0,8,5000
+exp2,GA,repair pop=100 gens=50,28,2270034.99,True,0.0,42,5000
+exp2,GA,repair pop=100 gens=50,29,2270034.99,True,3.0,302,5000
+exp2,GA,penalty pop=20 gens=100,0,2270034.99,True,76.0,1376,1820
+exp2,GA,penalty pop=20 gens=100,1,2270034.99,True,28.0,514,1820
+exp2,GA,penalty pop=20 gens=100,2,2270034.99,True,79.0,1433,1820
+exp2,GA,penalty pop=20 gens=100,3,2270034.99,True,33.0,598,1820
+exp2,GA,penalty pop=20 gens=100,4,2270034.99,True,20.0,376,1820
+exp2,GA,penalty pop=20 gens=100,5,2270034.99,True,61.0,1105,1820
+exp2,GA,penalty pop=20 gens=100,6,2270034.99,True,22.0,415,1820
+exp2,GA,penalty pop=20 gens=100,7,2196985.99,False,99.0,1788,1820
+exp2,GA,penalty pop=20 gens=100,8,2270034.99,True,22.0,415,1820
+exp2,GA,penalty pop=20 gens=100,9,2270034.99,True,49.0,891,1820
+exp2,GA,penalty pop=20 gens=100,10,2270034.99,True,49.0,900,1820
+exp2,GA,penalty pop=20 gens=100,11,2270034.99,True,35.0,646,1820
+exp2,GA,penalty pop=20 gens=100,12,2270034.99,True,75.0,1369,1820
+exp2,GA,penalty pop=20 gens=100,13,2270034.99,True,19.0,345,1820
+exp2,GA,penalty pop=20 gens=100,14,2270034.99,True,31.0,571,1820
+exp2,GA,penalty pop=20 gens=100,15,2270034.99,True,9.0,172,1820
+exp2,GA,penalty pop=20 gens=100,16,2269326.0,False,82.0,1481,1820
+exp2,GA,penalty pop=20 gens=100,17,2270034.99,True,48.0,883,1820
+exp2,GA,penalty pop=20 gens=100,18,2270034.99,True,66.0,1206,1820
+exp2,GA,penalty pop=20 gens=100,19,2270034.99,True,33.0,607,1820
+exp2,GA,penalty pop=20 gens=100,20,2270034.99,True,8.0,154,1820
+exp2,GA,penalty pop=20 gens=100,21,2270034.99,True,26.0,479,1820
+exp2,GA,penalty pop=20 gens=100,22,2269326.0,False,34.0,617,1820
+exp2,GA,penalty pop=20 gens=100,23,2270034.99,True,79.0,1442,1820
+exp2,GA,penalty pop=20 gens=100,24,2270034.99,True,16.0,298,1820
+exp2,GA,penalty pop=20 gens=100,25,2270034.99,True,15.0,285,1820
+exp2,GA,penalty pop=20 gens=100,26,2270034.99,True,78.0,1408,1820
+exp2,GA,penalty pop=20 gens=100,27,2270034.99,True,8.0,161,1820
+exp2,GA,penalty pop=20 gens=100,28,2270034.99,True,70.0,1278,1820
+exp2,GA,penalty pop=20 gens=100,29,2270034.99,True,17.0,318,1820
+exp2,GA,penalty pop=20 gens=276,0,2270034.99,True,76.0,1376,4988
+exp2,GA,penalty pop=20 gens=276,1,2270034.99,True,28.0,514,4988
+exp2,GA,penalty pop=20 gens=276,2,2270034.99,True,79.0,1433,4988
+exp2,GA,penalty pop=20 gens=276,3,2270034.99,True,33.0,598,4988
+exp2,GA,penalty pop=20 gens=276,4,2270034.99,True,20.0,376,4988
+exp2,GA,penalty pop=20 gens=276,5,2270034.99,True,61.0,1105,4988
+exp2,GA,penalty pop=20 gens=276,6,2270034.99,True,22.0,415,4988
+exp2,GA,penalty pop=20 gens=276,7,2270034.99,True,104.0,1881,4988
+exp2,GA,penalty pop=20 gens=276,8,2270034.99,True,22.0,415,4988
+exp2,GA,penalty pop=20 gens=276,9,2270034.99,True,49.0,891,4988
+exp2,GA,penalty pop=20 gens=276,10,2270034.99,True,49.0,900,4988
+exp2,GA,penalty pop=20 gens=276,11,2270034.99,True,35.0,646,4988
+exp2,GA,penalty pop=20 gens=276,12,2270034.99,True,75.0,1369,4988
+exp2,GA,penalty pop=20 gens=276,13,2270034.99,True,19.0,345,4988
+exp2,GA,penalty pop=20 gens=276,14,2270034.99,True,31.0,571,4988
+exp2,GA,penalty pop=20 gens=276,15,2270034.99,True,9.0,172,4988
+exp2,GA,penalty pop=20 gens=276,16,2270034.99,True,102.0,1852,4988
+exp2,GA,penalty pop=20 gens=276,17,2270034.99,True,48.0,883,4988
+exp2,GA,penalty pop=20 gens=276,18,2270034.99,True,66.0,1206,4988
+exp2,GA,penalty pop=20 gens=276,19,2270034.99,True,33.0,607,4988
+exp2,GA,penalty pop=20 gens=276,20,2270034.99,True,8.0,154,4988
+exp2,GA,penalty pop=20 gens=276,21,2270034.99,True,26.0,479,4988
+exp2,GA,penalty pop=20 gens=276,22,2270034.99,True,107.0,1932,4988
+exp2,GA,penalty pop=20 gens=276,23,2270034.99,True,79.0,1442,4988
+exp2,GA,penalty pop=20 gens=276,24,2270034.99,True,16.0,298,4988
+exp2,GA,penalty pop=20 gens=276,25,2270034.99,True,15.0,285,4988
+exp2,GA,penalty pop=20 gens=276,26,2270034.99,True,78.0,1408,4988
+exp2,GA,penalty pop=20 gens=276,27,2270034.99,True,8.0,161,4988
+exp2,GA,penalty pop=20 gens=276,28,2270034.99,True,70.0,1278,4988
+exp2,GA,penalty pop=20 gens=276,29,2270034.99,True,17.0,318,4988
+exp2,GA,penalty pop=50 gens=100,0,2270034.99,True,13.0,642,4850
+exp2,GA,penalty pop=50 gens=100,1,2270034.99,True,16.0,800,4850
+exp2,GA,penalty pop=50 gens=100,2,2270034.99,True,18.0,902,4850
+exp2,GA,penalty pop=50 gens=100,3,2270034.99,True,15.0,765,4850
+exp2,GA,penalty pop=50 gens=100,4,2270034.99,True,11.0,574,4850
+exp2,GA,penalty pop=50 gens=100,5,2270034.99,True,16.0,813,4850
+exp2,GA,penalty pop=50 gens=100,6,2270034.99,True,33.0,1625,4850
+exp2,GA,penalty pop=50 gens=100,7,2270034.99,True,7.0,376,4850
+exp2,GA,penalty pop=50 gens=100,8,2270034.99,True,9.0,451,4850
+exp2,GA,penalty pop=50 gens=100,9,2270034.99,True,28.0,1364,4850
+exp2,GA,penalty pop=50 gens=100,10,2270034.99,True,22.0,1092,4850
+exp2,GA,penalty pop=50 gens=100,11,2270034.99,True,18.0,886,4850
+exp2,GA,penalty pop=50 gens=100,12,2270034.99,True,19.0,932,4850
+exp2,GA,penalty pop=50 gens=100,13,2270034.99,True,12.0,617,4850
+exp2,GA,penalty pop=50 gens=100,14,2270034.99,True,12.0,601,4850
+exp2,GA,penalty pop=50 gens=100,15,2270034.99,True,16.0,783,4850
+exp2,GA,penalty pop=50 gens=100,16,2270034.99,True,11.0,538,4850
+exp2,GA,penalty pop=50 gens=100,17,2270034.99,True,18.0,888,4850
+exp2,GA,penalty pop=50 gens=100,18,2270034.99,True,38.0,1830,4850
+exp2,GA,penalty pop=50 gens=100,19,2270034.99,True,31.0,1530,4850
+exp2,GA,penalty pop=50 gens=100,20,2270034.99,True,23.0,1125,4850
+exp2,GA,penalty pop=50 gens=100,21,2270034.99,True,13.0,629,4850
+exp2,GA,penalty pop=50 gens=100,22,2270034.99,True,32.0,1576,4850
+exp2,GA,penalty pop=50 gens=100,23,2270034.99,True,22.0,1072,4850
+exp2,GA,penalty pop=50 gens=100,24,2270034.99,True,10.0,491,4850
+exp2,GA,penalty pop=50 gens=100,25,2270034.99,True,16.0,776,4850
+exp2,GA,penalty pop=50 gens=100,26,2270034.99,True,14.0,705,4850
+exp2,GA,penalty pop=50 gens=100,27,2270034.99,True,21.0,1012,4850
+exp2,GA,penalty pop=50 gens=100,28,2270034.99,True,14.0,675,4850
+exp2,GA,penalty pop=50 gens=100,29,2270034.99,True,69.0,3352,4850
+exp2,GA,penalty pop=50 gens=103,0,2270034.99,True,13.0,642,4994
+exp2,GA,penalty pop=50 gens=103,1,2270034.99,True,16.0,800,4994
+exp2,GA,penalty pop=50 gens=103,2,2270034.99,True,18.0,902,4994
+exp2,GA,penalty pop=50 gens=103,3,2270034.99,True,15.0,765,4994
+exp2,GA,penalty pop=50 gens=103,4,2270034.99,True,11.0,574,4994
+exp2,GA,penalty pop=50 gens=103,5,2270034.99,True,16.0,813,4994
+exp2,GA,penalty pop=50 gens=103,6,2270034.99,True,33.0,1625,4994
+exp2,GA,penalty pop=50 gens=103,7,2270034.99,True,7.0,376,4994
+exp2,GA,penalty pop=50 gens=103,8,2270034.99,True,9.0,451,4994
+exp2,GA,penalty pop=50 gens=103,9,2270034.99,True,28.0,1364,4994
+exp2,GA,penalty pop=50 gens=103,10,2270034.99,True,22.0,1092,4994
+exp2,GA,penalty pop=50 gens=103,11,2270034.99,True,18.0,886,4994
+exp2,GA,penalty pop=50 gens=103,12,2270034.99,True,19.0,932,4994
+exp2,GA,penalty pop=50 gens=103,13,2270034.99,True,12.0,617,4994
+exp2,GA,penalty pop=50 gens=103,14,2270034.99,True,12.0,601,4994
+exp2,GA,penalty pop=50 gens=103,15,2270034.99,True,16.0,783,4994
+exp2,GA,penalty pop=50 gens=103,16,2270034.99,True,11.0,538,4994
+exp2,GA,penalty pop=50 gens=103,17,2270034.99,True,18.0,888,4994
+exp2,GA,penalty pop=50 gens=103,18,2270034.99,True,38.0,1830,4994
+exp2,GA,penalty pop=50 gens=103,19,2270034.99,True,31.0,1530,4994
+exp2,GA,penalty pop=50 gens=103,20,2270034.99,True,23.0,1125,4994
+exp2,GA,penalty pop=50 gens=103,21,2270034.99,True,13.0,629,4994
+exp2,GA,penalty pop=50 gens=103,22,2270034.99,True,32.0,1576,4994
+exp2,GA,penalty pop=50 gens=103,23,2270034.99,True,22.0,1072,4994
+exp2,GA,penalty pop=50 gens=103,24,2270034.99,True,10.0,491,4994
+exp2,GA,penalty pop=50 gens=103,25,2270034.99,True,16.0,776,4994
+exp2,GA,penalty pop=50 gens=103,26,2270034.99,True,14.0,705,4994
+exp2,GA,penalty pop=50 gens=103,27,2270034.99,True,21.0,1012,4994
+exp2,GA,penalty pop=50 gens=103,28,2270034.99,True,14.0,675,4994
+exp2,GA,penalty pop=50 gens=103,29,2270034.99,True,69.0,3352,4994
+exp2,GA,penalty pop=100 gens=100,0,2270034.99,True,9.0,971,9900
+exp2,GA,penalty pop=100 gens=100,1,2270034.99,True,8.0,808,9900
+exp2,GA,penalty pop=100 gens=100,2,2270034.99,True,6.0,592,9900
+exp2,GA,penalty pop=100 gens=100,3,2270034.99,True,5.0,583,9900
+exp2,GA,penalty pop=100 gens=100,4,2270034.99,True,6.0,680,9900
+exp2,GA,penalty pop=100 gens=100,5,2270034.99,True,11.0,1100,9900
+exp2,GA,penalty pop=100 gens=100,6,2270034.99,True,22.0,2166,9900
+exp2,GA,penalty pop=100 gens=100,7,2270034.99,True,17.0,1703,9900
+exp2,GA,penalty pop=100 gens=100,8,2270034.99,True,20.0,2024,9900
+exp2,GA,penalty pop=100 gens=100,9,2270034.99,True,9.0,970,9900
+exp2,GA,penalty pop=100 gens=100,10,2270034.99,True,28.0,2802,9900
+exp2,GA,penalty pop=100 gens=100,11,2270034.99,True,7.0,739,9900
+exp2,GA,penalty pop=100 gens=100,12,2270034.99,True,10.0,1022,9900
+exp2,GA,penalty pop=100 gens=100,13,2270034.99,True,9.0,961,9900
+exp2,GA,penalty pop=100 gens=100,14,2270034.99,True,20.0,1969,9900
+exp2,GA,penalty pop=100 gens=100,15,2270034.99,True,18.0,1785,9900
+exp2,GA,penalty pop=100 gens=100,16,2270034.99,True,6.0,672,9900
+exp2,GA,penalty pop=100 gens=100,17,2270034.99,True,15.0,1485,9900
+exp2,GA,penalty pop=100 gens=100,18,2270034.99,True,6.0,663,9900
+exp2,GA,penalty pop=100 gens=100,19,2270034.99,True,18.0,1848,9900
+exp2,GA,penalty pop=100 gens=100,20,2270034.99,True,11.0,1097,9900
+exp2,GA,penalty pop=100 gens=100,21,2270034.99,True,9.0,958,9900
+exp2,GA,penalty pop=100 gens=100,22,2270034.99,True,19.0,1916,9900
+exp2,GA,penalty pop=100 gens=100,23,2270034.99,True,14.0,1465,9900
+exp2,GA,penalty pop=100 gens=100,24,2270034.99,True,6.0,674,9900
+exp2,GA,penalty pop=100 gens=100,25,2270034.99,True,11.0,1153,9900
+exp2,GA,penalty pop=100 gens=100,26,2270034.99,True,10.0,1072,9900
+exp2,GA,penalty pop=100 gens=100,27,2270034.99,True,22.0,2212,9900
+exp2,GA,penalty pop=100 gens=100,28,2270034.99,True,7.0,727,9900
+exp2,GA,penalty pop=100 gens=100,29,2270034.99,True,6.0,596,9900
+exp2,GA,penalty pop=100 gens=50,0,2270034.99,True,9.0,971,5000
+exp2,GA,penalty pop=100 gens=50,1,2270034.99,True,8.0,808,5000
+exp2,GA,penalty pop=100 gens=50,2,2270034.99,True,6.0,592,5000
+exp2,GA,penalty pop=100 gens=50,3,2270034.99,True,5.0,583,5000
+exp2,GA,penalty pop=100 gens=50,4,2270034.99,True,6.0,680,5000
+exp2,GA,penalty pop=100 gens=50,5,2270034.99,True,11.0,1100,5000
+exp2,GA,penalty pop=100 gens=50,6,2270034.99,True,22.0,2166,5000
+exp2,GA,penalty pop=100 gens=50,7,2270034.99,True,17.0,1703,5000
+exp2,GA,penalty pop=100 gens=50,8,2270034.99,True,20.0,2024,5000
+exp2,GA,penalty pop=100 gens=50,9,2270034.99,True,9.0,970,5000
+exp2,GA,penalty pop=100 gens=50,10,2270034.99,True,28.0,2802,5000
+exp2,GA,penalty pop=100 gens=50,11,2270034.99,True,7.0,739,5000
+exp2,GA,penalty pop=100 gens=50,12,2270034.99,True,10.0,1022,5000
+exp2,GA,penalty pop=100 gens=50,13,2270034.99,True,9.0,961,5000
+exp2,GA,penalty pop=100 gens=50,14,2270034.99,True,20.0,1969,5000
+exp2,GA,penalty pop=100 gens=50,15,2270034.99,True,18.0,1785,5000
+exp2,GA,penalty pop=100 gens=50,16,2270034.99,True,6.0,672,5000
+exp2,GA,penalty pop=100 gens=50,17,2270034.99,True,15.0,1485,5000
+exp2,GA,penalty pop=100 gens=50,18,2270034.99,True,6.0,663,5000
+exp2,GA,penalty pop=100 gens=50,19,2270034.99,True,18.0,1848,5000
+exp2,GA,penalty pop=100 gens=50,20,2270034.99,True,11.0,1097,5000
+exp2,GA,penalty pop=100 gens=50,21,2270034.99,True,9.0,958,5000
+exp2,GA,penalty pop=100 gens=50,22,2270034.99,True,19.0,1916,5000
+exp2,GA,penalty pop=100 gens=50,23,2270034.99,True,14.0,1465,5000
+exp2,GA,penalty pop=100 gens=50,24,2270034.99,True,6.0,674,5000
+exp2,GA,penalty pop=100 gens=50,25,2270034.99,True,11.0,1153,5000
+exp2,GA,penalty pop=100 gens=50,26,2270034.99,True,10.0,1072,5000
+exp2,GA,penalty pop=100 gens=50,27,2270034.99,True,22.0,2212,5000
+exp2,GA,penalty pop=100 gens=50,28,2270034.99,True,7.0,727,5000
+exp2,GA,penalty pop=100 gens=50,29,2270034.99,True,6.0,596,5000
+exp3,GA,penalty,0,2270034.99,True,13.0,642,4850
+exp3,GA,penalty,1,2270034.99,True,16.0,800,4850
+exp3,GA,penalty,2,2270034.99,True,18.0,902,4850
+exp3,GA,penalty,3,2270034.99,True,15.0,765,4850
+exp3,GA,penalty,4,2270034.99,True,11.0,574,4850
+exp3,GA,penalty,5,2270034.99,True,16.0,813,4850
+exp3,GA,penalty,6,2270034.99,True,33.0,1625,4850
+exp3,GA,penalty,7,2270034.99,True,7.0,376,4850
+exp3,GA,penalty,8,2270034.99,True,9.0,451,4850
+exp3,GA,penalty,9,2270034.99,True,28.0,1364,4850
+exp3,GA,penalty,10,2270034.99,True,22.0,1092,4850
+exp3,GA,penalty,11,2270034.99,True,18.0,886,4850
+exp3,GA,penalty,12,2270034.99,True,19.0,932,4850
+exp3,GA,penalty,13,2270034.99,True,12.0,617,4850
+exp3,GA,penalty,14,2270034.99,True,12.0,601,4850
+exp3,GA,penalty,15,2270034.99,True,16.0,783,4850
+exp3,GA,penalty,16,2270034.99,True,11.0,538,4850
+exp3,GA,penalty,17,2270034.99,True,18.0,888,4850
+exp3,GA,penalty,18,2270034.99,True,38.0,1830,4850
+exp3,GA,penalty,19,2270034.99,True,31.0,1530,4850
+exp3,GA,penalty,20,2270034.99,True,23.0,1125,4850
+exp3,GA,penalty,21,2270034.99,True,13.0,629,4850
+exp3,GA,penalty,22,2270034.99,True,32.0,1576,4850
+exp3,GA,penalty,23,2270034.99,True,22.0,1072,4850
+exp3,GA,penalty,24,2270034.99,True,10.0,491,4850
+exp3,GA,penalty,25,2270034.99,True,16.0,776,4850
+exp3,GA,penalty,26,2270034.99,True,14.0,705,4850
+exp3,GA,penalty,27,2270034.99,True,21.0,1012,4850
+exp3,GA,penalty,28,2270034.99,True,14.0,675,4850
+exp3,GA,penalty,29,2270034.99,True,69.0,3352,4850
+exp3,GA,repair,0,2270034.99,True,0.0,14,4850
+exp3,GA,repair,1,2270034.99,True,0.0,6,4850
+exp3,GA,repair,2,2270034.99,True,1.0,97,4850
+exp3,GA,repair,3,2270034.99,True,1.0,69,4850
+exp3,GA,repair,4,2270034.99,True,11.0,575,4850
+exp3,GA,repair,5,2270034.99,True,7.0,366,4850
+exp3,GA,repair,6,2270034.99,True,0.0,36,4850
+exp3,GA,repair,7,2270034.99,True,0.0,8,4850
+exp3,GA,repair,8,2270034.99,True,1.0,88,4850
+exp3,GA,repair,9,2270034.99,True,61.0,2969,4850
+exp3,GA,repair,10,2270034.99,True,0.0,48,4850
+exp3,GA,repair,11,2270034.99,True,0.0,42,4850
+exp3,GA,repair,12,2270034.99,True,0.0,6,4850
+exp3,GA,repair,13,2270034.99,True,0.0,11,4850
+exp3,GA,repair,14,2270034.99,True,0.0,5,4850
+exp3,GA,repair,15,2270034.99,True,0.0,18,4850
+exp3,GA,repair,16,2270034.99,True,22.0,1095,4850
+exp3,GA,repair,17,2270034.99,True,2.0,135,4850
+exp3,GA,repair,18,2270034.99,True,0.0,22,4850
+exp3,GA,repair,19,2270034.99,True,0.0,20,4850
+exp3,GA,repair,20,2270034.99,True,0.0,15,4850
+exp3,GA,repair,21,2270034.99,True,1.0,53,4850
+exp3,GA,repair,22,2270034.99,True,1.0,57,4850
+exp3,GA,repair,23,2270034.99,True,3.0,170,4850
+exp3,GA,repair,24,2270034.99,True,3.0,157,4850
+exp3,GA,repair,25,2270034.99,True,2.0,133,4850
+exp3,GA,repair,26,2270034.99,True,0.0,12,4850
+exp3,GA,repair,27,2270034.99,True,0.0,8,4850
+exp3,GA,repair,28,2270034.99,True,0.0,42,4850
+exp3,GA,repair,29,2270034.99,True,1.0,96,4850
+exp4,GA + repair,budget=1750000,0,1367678.99,True,0.0,6,4850
+exp4,GA + repair,budget=1750000,1,1367678.99,True,0.0,15,4850
+exp4,GA + repair,budget=1750000,2,1367678.99,True,0.0,16,4850
+exp4,GA + repair,budget=1750000,3,1367678.99,True,0.0,32,4850
+exp4,GA + repair,budget=1750000,4,1367678.99,True,0.0,5,4850
+exp4,GA + repair,budget=1750000,5,1367678.99,True,0.0,31,4850
+exp4,GA + repair,budget=1750000,6,1367678.99,True,0.0,11,4850
+exp4,GA + repair,budget=1750000,7,1367678.99,True,0.0,3,4850
+exp4,GA + repair,budget=1750000,8,1367678.99,True,0.0,4,4850
+exp4,GA + repair,budget=1750000,9,1367678.99,True,0.0,2,4850
+exp4,GA + repair,budget=1750000,10,1367678.99,True,0.0,2,4850
+exp4,GA + repair,budget=1750000,11,1367678.99,True,0.0,3,4850
+exp4,GA + repair,budget=1750000,12,1367678.99,True,0.0,2,4850
+exp4,GA + repair,budget=1750000,13,1367678.99,True,0.0,3,4850
+exp4,GA + repair,budget=1750000,14,1367678.99,True,0.0,24,4850
+exp4,GA + repair,budget=1750000,15,1367678.99,True,0.0,3,4850
+exp4,GA + repair,budget=1750000,16,1367678.99,True,0.0,6,4850
+exp4,GA + repair,budget=1750000,17,1367678.99,True,0.0,1,4850
+exp4,GA + repair,budget=1750000,18,1367678.99,True,0.0,16,4850
+exp4,GA + repair,budget=1750000,19,1367678.99,True,0.0,18,4850
+exp4,GA + repair,budget=1750000,20,1367678.99,True,0.0,30,4850
+exp4,GA + repair,budget=1750000,21,1367678.99,True,0.0,22,4850
+exp4,GA + repair,budget=1750000,22,1367678.99,True,0.0,15,4850
+exp4,GA + repair,budget=1750000,23,1367678.99,True,0.0,14,4850
+exp4,GA + repair,budget=1750000,24,1367678.99,True,0.0,39,4850
+exp4,GA + repair,budget=1750000,25,1367678.99,True,0.0,4,4850
+exp4,GA + repair,budget=1750000,26,1367678.99,True,0.0,22,4850
+exp4,GA + repair,budget=1750000,27,1367678.99,True,0.0,17,4850
+exp4,GA + repair,budget=1750000,28,1367678.99,True,0.0,2,4850
+exp4,GA + repair,budget=1750000,29,1367678.99,True,0.0,28,4850
+exp4,Random,budget=1750000,0,1017042.0,False,,2751,4850
+exp4,Random,budget=1750000,1,696112.0,False,,128,4850
+exp4,Random,budget=1750000,2,899788.0,False,,94,4850
+exp4,Random,budget=1750000,3,711935.99,False,,1941,4850
+exp4,Random,budget=1750000,4,0.0,False,,0,4850
+exp4,Random,budget=1750000,5,865028.3,False,,2158,4850
+exp4,Random,budget=1750000,6,889517.0,False,,2450,4850
+exp4,Random,budget=1750000,7,653516.0,False,,3739,4850
+exp4,Random,budget=1750000,8,712344.3,False,,1178,4850
+exp4,Random,budget=1750000,9,570064.0,False,,227,4850
+exp4,Random,budget=1750000,10,869059.0,False,,672,4850
+exp4,Random,budget=1750000,11,808462.0,False,,4472,4850
+exp4,Random,budget=1750000,12,0.0,False,,0,4850
+exp4,Random,budget=1750000,13,0.0,False,,0,4850
+exp4,Random,budget=1750000,14,1283013.0,False,,2244,4850
+exp4,Random,budget=1750000,15,462573.0,False,,4670,4850
+exp4,Random,budget=1750000,16,924170.0,False,,11,4850
+exp4,Random,budget=1750000,17,858664.0,False,,4769,4850
+exp4,Random,budget=1750000,18,1314938.0,False,,4276,4850
+exp4,Random,budget=1750000,19,1367678.99,True,,4082,4850
+exp4,Random,budget=1750000,20,1227386.99,False,,1151,4850
+exp4,Random,budget=1750000,21,1290392.99,False,,3193,4850
+exp4,Random,budget=1750000,22,887896.0,False,,496,4850
+exp4,Random,budget=1750000,23,986752.0,False,,3937,4850
+exp4,Random,budget=1750000,24,0.0,False,,0,4850
+exp4,Random,budget=1750000,25,581690.0,False,,1769,4850
+exp4,Random,budget=1750000,26,1252284.0,False,,254,4850
+exp4,Random,budget=1750000,27,0.0,False,,0,4850
+exp4,Random,budget=1750000,28,1062488.0,False,,689,4850
+exp4,Random,budget=1750000,29,1247962.0,False,,4384,4850
+exp4,Random + repair,budget=1750000,0,1367678.99,True,,6,4850
+exp4,Random + repair,budget=1750000,1,1367678.99,True,,15,4850
+exp4,Random + repair,budget=1750000,2,1367678.99,True,,16,4850
+exp4,Random + repair,budget=1750000,3,1367678.99,True,,32,4850
+exp4,Random + repair,budget=1750000,4,1367678.99,True,,5,4850
+exp4,Random + repair,budget=1750000,5,1367678.99,True,,31,4850
+exp4,Random + repair,budget=1750000,6,1367678.99,True,,11,4850
+exp4,Random + repair,budget=1750000,7,1367678.99,True,,3,4850
+exp4,Random + repair,budget=1750000,8,1367678.99,True,,4,4850
+exp4,Random + repair,budget=1750000,9,1367678.99,True,,2,4850
+exp4,Random + repair,budget=1750000,10,1367678.99,True,,2,4850
+exp4,Random + repair,budget=1750000,11,1367678.99,True,,3,4850
+exp4,Random + repair,budget=1750000,12,1367678.99,True,,2,4850
+exp4,Random + repair,budget=1750000,13,1367678.99,True,,3,4850
+exp4,Random + repair,budget=1750000,14,1367678.99,True,,24,4850
+exp4,Random + repair,budget=1750000,15,1367678.99,True,,3,4850
+exp4,Random + repair,budget=1750000,16,1367678.99,True,,6,4850
+exp4,Random + repair,budget=1750000,17,1367678.99,True,,1,4850
+exp4,Random + repair,budget=1750000,18,1367678.99,True,,16,4850
+exp4,Random + repair,budget=1750000,19,1367678.99,True,,18,4850
+exp4,Random + repair,budget=1750000,20,1367678.99,True,,30,4850
+exp4,Random + repair,budget=1750000,21,1367678.99,True,,22,4850
+exp4,Random + repair,budget=1750000,22,1367678.99,True,,15,4850
+exp4,Random + repair,budget=1750000,23,1367678.99,True,,14,4850
+exp4,Random + repair,budget=1750000,24,1367678.99,True,,39,4850
+exp4,Random + repair,budget=1750000,25,1367678.99,True,,4,4850
+exp4,Random + repair,budget=1750000,26,1367678.99,True,,22,4850
+exp4,Random + repair,budget=1750000,27,1367678.99,True,,17,4850
+exp4,Random + repair,budget=1750000,28,1367678.99,True,,2,4850
+exp4,Random + repair,budget=1750000,29,1367678.99,True,,28,4850
+exp4,GA + repair,budget=2750000,0,2196985.99,True,2.0,121,4850
+exp4,GA + repair,budget=2750000,1,2196985.99,True,1.0,75,4850
+exp4,GA + repair,budget=2750000,2,2196985.99,True,0.0,4,4850
+exp4,GA + repair,budget=2750000,3,2196985.99,True,0.0,30,4850
+exp4,GA + repair,budget=2750000,4,2196985.99,True,0.0,10,4850
+exp4,GA + repair,budget=2750000,5,2196985.99,True,0.0,8,4850
+exp4,GA + repair,budget=2750000,6,2196985.99,True,0.0,27,4850
+exp4,GA + repair,budget=2750000,7,2196985.99,True,0.0,30,4850
+exp4,GA + repair,budget=2750000,8,2196985.99,True,0.0,23,4850
+exp4,GA + repair,budget=2750000,9,2196985.99,True,0.0,3,4850
+exp4,GA + repair,budget=2750000,10,2196985.99,True,1.0,90,4850
+exp4,GA + repair,budget=2750000,11,2196985.99,True,0.0,19,4850
+exp4,GA + repair,budget=2750000,12,2196985.99,True,0.0,29,4850
+exp4,GA + repair,budget=2750000,13,2196985.99,True,0.0,27,4850
+exp4,GA + repair,budget=2750000,14,2196985.99,True,3.0,170,4850
+exp4,GA + repair,budget=2750000,15,2196985.99,True,10.0,499,4850
+exp4,GA + repair,budget=2750000,16,2196985.99,True,22.0,1087,4850
+exp4,GA + repair,budget=2750000,17,2196985.99,True,0.0,30,4850
+exp4,GA + repair,budget=2750000,18,2196985.99,True,0.0,8,4850
+exp4,GA + repair,budget=2750000,19,2196985.99,True,0.0,25,4850
+exp4,GA + repair,budget=2750000,20,2196985.99,True,0.0,32,4850
+exp4,GA + repair,budget=2750000,21,2196985.99,True,0.0,28,4850
+exp4,GA + repair,budget=2750000,22,2196985.99,True,1.0,83,4850
+exp4,GA + repair,budget=2750000,23,2196985.99,True,0.0,27,4850
+exp4,GA + repair,budget=2750000,24,2196985.99,True,0.0,34,4850
+exp4,GA + repair,budget=2750000,25,2196985.99,True,0.0,22,4850
+exp4,GA + repair,budget=2750000,26,2196985.99,True,1.0,71,4850
+exp4,GA + repair,budget=2750000,27,2196985.99,True,0.0,24,4850
+exp4,GA + repair,budget=2750000,28,2196985.99,True,1.0,86,4850
+exp4,GA + repair,budget=2750000,29,2196985.99,True,1.0,90,4850
+exp4,Random,budget=2750000,0,1493990.99,False,,1858,4850
+exp4,Random,budget=2750000,1,1572472.99,False,,875,4850
+exp4,Random,budget=2750000,2,1592136.99,False,,1789,4850
+exp4,Random,budget=2750000,3,1708434.99,False,,4670,4850
+exp4,Random,budget=2750000,4,1412633.0,False,,4072,4850
+exp4,Random,budget=2750000,5,1700140.0,False,,1952,4850
+exp4,Random,budget=2750000,6,1578564.29,False,,2323,4850
+exp4,Random,budget=2750000,7,2045102.99,False,,4523,4850
+exp4,Random,budget=2750000,8,1497828.99,False,,2510,4850
+exp4,Random,budget=2750000,9,1554639.99,False,,3044,4850
+exp4,Random,budget=2750000,10,1714368.0,False,,3440,4850
+exp4,Random,budget=2750000,11,1975154.0,False,,4778,4850
+exp4,Random,budget=2750000,12,1464265.99,False,,2482,4850
+exp4,Random,budget=2750000,13,1771440.99,False,,941,4850
+exp4,Random,budget=2750000,14,1456687.99,False,,10,4850
+exp4,Random,budget=2750000,15,1720329.0,False,,3125,4850
+exp4,Random,budget=2750000,16,1337326.0,False,,2932,4850
+exp4,Random,budget=2750000,17,1816886.99,False,,3117,4850
+exp4,Random,budget=2750000,18,1598217.99,False,,2782,4850
+exp4,Random,budget=2750000,19,1615183.0,False,,1535,4850
+exp4,Random,budget=2750000,20,1735826.0,False,,1166,4850
+exp4,Random,budget=2750000,21,1536225.99,False,,4498,4850
+exp4,Random,budget=2750000,22,1456594.0,False,,269,4850
+exp4,Random,budget=2750000,23,1714368.0,False,,3122,4850
+exp4,Random,budget=2750000,24,1562682.99,False,,3070,4850
+exp4,Random,budget=2750000,25,1669215.0,False,,167,4850
+exp4,Random,budget=2750000,26,1628091.0,False,,3401,4850
+exp4,Random,budget=2750000,27,1560194.0,False,,4675,4850
+exp4,Random,budget=2750000,28,1502133.99,False,,3855,4850
+exp4,Random,budget=2750000,29,1341298.99,False,,4366,4850
+exp4,Random + repair,budget=2750000,0,2196985.99,True,,235,4850
+exp4,Random + repair,budget=2750000,1,2196985.99,True,,59,4850
+exp4,Random + repair,budget=2750000,2,2196985.99,True,,4,4850
+exp4,Random + repair,budget=2750000,3,2196985.99,True,,30,4850
+exp4,Random + repair,budget=2750000,4,2196985.99,True,,10,4850
+exp4,Random + repair,budget=2750000,5,2196985.99,True,,8,4850
+exp4,Random + repair,budget=2750000,6,2196985.99,True,,27,4850
+exp4,Random + repair,budget=2750000,7,2196985.99,True,,30,4850
+exp4,Random + repair,budget=2750000,8,2196985.99,True,,23,4850
+exp4,Random + repair,budget=2750000,9,2196985.99,True,,3,4850
+exp4,Random + repair,budget=2750000,10,2196985.99,True,,155,4850
+exp4,Random + repair,budget=2750000,11,2196985.99,True,,19,4850
+exp4,Random + repair,budget=2750000,12,2196985.99,True,,29,4850
+exp4,Random + repair,budget=2750000,13,2196985.99,True,,27,4850
+exp4,Random + repair,budget=2750000,14,2196985.99,True,,105,4850
+exp4,Random + repair,budget=2750000,15,2196985.99,True,,102,4850
+exp4,Random + repair,budget=2750000,16,2196985.99,True,,77,4850
+exp4,Random + repair,budget=2750000,17,2196985.99,True,,30,4850
+exp4,Random + repair,budget=2750000,18,2196985.99,True,,8,4850
+exp4,Random + repair,budget=2750000,19,2196985.99,True,,25,4850
+exp4,Random + repair,budget=2750000,20,2196985.99,True,,32,4850
+exp4,Random + repair,budget=2750000,21,2196985.99,True,,28,4850
+exp4,Random + repair,budget=2750000,22,2196985.99,True,,82,4850
+exp4,Random + repair,budget=2750000,23,2196985.99,True,,27,4850
+exp4,Random + repair,budget=2750000,24,2196985.99,True,,34,4850
+exp4,Random + repair,budget=2750000,25,2196985.99,True,,22,4850
+exp4,Random + repair,budget=2750000,26,2196985.99,True,,147,4850
+exp4,Random + repair,budget=2750000,27,2196985.99,True,,24,4850
+exp4,Random + repair,budget=2750000,28,2196985.99,True,,58,4850
+exp4,Random + repair,budget=2750000,29,2196985.99,True,,56,4850
+exp4,GA + repair,budget=3000000,0,2270034.99,True,0.0,14,4850
+exp4,GA + repair,budget=3000000,1,2270034.99,True,0.0,6,4850
+exp4,GA + repair,budget=3000000,2,2270034.99,True,1.0,97,4850
+exp4,GA + repair,budget=3000000,3,2270034.99,True,1.0,69,4850
+exp4,GA + repair,budget=3000000,4,2270034.99,True,11.0,575,4850
+exp4,GA + repair,budget=3000000,5,2270034.99,True,7.0,366,4850
+exp4,GA + repair,budget=3000000,6,2270034.99,True,0.0,36,4850
+exp4,GA + repair,budget=3000000,7,2270034.99,True,0.0,8,4850
+exp4,GA + repair,budget=3000000,8,2270034.99,True,1.0,88,4850
+exp4,GA + repair,budget=3000000,9,2270034.99,True,61.0,2969,4850
+exp4,GA + repair,budget=3000000,10,2270034.99,True,0.0,48,4850
+exp4,GA + repair,budget=3000000,11,2270034.99,True,0.0,42,4850
+exp4,GA + repair,budget=3000000,12,2270034.99,True,0.0,6,4850
+exp4,GA + repair,budget=3000000,13,2270034.99,True,0.0,11,4850
+exp4,GA + repair,budget=3000000,14,2270034.99,True,0.0,5,4850
+exp4,GA + repair,budget=3000000,15,2270034.99,True,0.0,18,4850
+exp4,GA + repair,budget=3000000,16,2270034.99,True,22.0,1095,4850
+exp4,GA + repair,budget=3000000,17,2270034.99,True,2.0,135,4850
+exp4,GA + repair,budget=3000000,18,2270034.99,True,0.0,22,4850
+exp4,GA + repair,budget=3000000,19,2270034.99,True,0.0,20,4850
+exp4,GA + repair,budget=3000000,20,2270034.99,True,0.0,15,4850
+exp4,GA + repair,budget=3000000,21,2270034.99,True,1.0,53,4850
+exp4,GA + repair,budget=3000000,22,2270034.99,True,1.0,57,4850
+exp4,GA + repair,budget=3000000,23,2270034.99,True,3.0,170,4850
+exp4,GA + repair,budget=3000000,24,2270034.99,True,3.0,157,4850
+exp4,GA + repair,budget=3000000,25,2270034.99,True,2.0,133,4850
+exp4,GA + repair,budget=3000000,26,2270034.99,True,0.0,12,4850
+exp4,GA + repair,budget=3000000,27,2270034.99,True,0.0,8,4850
+exp4,GA + repair,budget=3000000,28,2270034.99,True,0.0,42,4850
+exp4,GA + repair,budget=3000000,29,2270034.99,True,1.0,96,4850
+exp4,Random,budget=3000000,0,1956095.29,False,,2309,4850
+exp4,Random,budget=3000000,1,1859206.99,False,,2797,4850
+exp4,Random,budget=3000000,2,1893430.0,False,,4848,4850
+exp4,Random,budget=3000000,3,1953824.99,False,,4751,4850
+exp4,Random,budget=3000000,4,1412633.0,False,,4072,4850
+exp4,Random,budget=3000000,5,1700140.0,False,,1952,4850
+exp4,Random,budget=3000000,6,1788052.0,False,,291,4850
+exp4,Random,budget=3000000,7,2048313.99,False,,847,4850
+exp4,Random,budget=3000000,8,1902950.0,False,,1829,4850
+exp4,Random,budget=3000000,9,1999526.29,False,,1839,4850
+exp4,Random,budget=3000000,10,1918773.99,False,,871,4850
+exp4,Random,budget=3000000,11,1975154.0,False,,4778,4850
+exp4,Random,budget=3000000,12,1721323.99,False,,3402,4850
+exp4,Random,budget=3000000,13,1838430.0,False,,2439,4850
+exp4,Random,budget=3000000,14,1619316.3,False,,3175,4850
+exp4,Random,budget=3000000,15,1929044.99,False,,1452,4850
+exp4,Random,budget=3000000,16,1506513.3,False,,2550,4850
+exp4,Random,budget=3000000,17,1963095.99,False,,4731,4850
+exp4,Random,budget=3000000,18,1826941.0,False,,2372,4850
+exp4,Random,budget=3000000,19,1615183.0,False,,1535,4850
+exp4,Random,budget=3000000,20,1742570.99,False,,2965,4850
+exp4,Random,budget=3000000,21,1536225.99,False,,4498,4850
+exp4,Random,budget=3000000,22,1828438.0,False,,2484,4850
+exp4,Random,budget=3000000,23,1891046.99,False,,2819,4850
+exp4,Random,budget=3000000,24,1760097.0,False,,645,4850
+exp4,Random,budget=3000000,25,1669215.0,False,,167,4850
+exp4,Random,budget=3000000,26,1846008.0,False,,1366,4850
+exp4,Random,budget=3000000,27,1560194.0,False,,4675,4850
+exp4,Random,budget=3000000,28,1960306.3,False,,437,4850
+exp4,Random,budget=3000000,29,1723549.0,False,,1487,4850
+exp4,Random + repair,budget=3000000,0,2270034.99,True,,14,4850
+exp4,Random + repair,budget=3000000,1,2270034.99,True,,6,4850
+exp4,Random + repair,budget=3000000,2,2270034.99,True,,61,4850
+exp4,Random + repair,budget=3000000,3,2270034.99,True,,216,4850
+exp4,Random + repair,budget=3000000,4,2270034.99,True,,111,4850
+exp4,Random + repair,budget=3000000,5,2270034.99,True,,194,4850
+exp4,Random + repair,budget=3000000,6,2270034.99,True,,36,4850
+exp4,Random + repair,budget=3000000,7,2270034.99,True,,8,4850
+exp4,Random + repair,budget=3000000,8,2270034.99,True,,200,4850
+exp4,Random + repair,budget=3000000,9,2270034.99,True,,57,4850
+exp4,Random + repair,budget=3000000,10,2270034.99,True,,48,4850
+exp4,Random + repair,budget=3000000,11,2270034.99,True,,42,4850
+exp4,Random + repair,budget=3000000,12,2270034.99,True,,6,4850
+exp4,Random + repair,budget=3000000,13,2270034.99,True,,11,4850
+exp4,Random + repair,budget=3000000,14,2270034.99,True,,5,4850
+exp4,Random + repair,budget=3000000,15,2270034.99,True,,18,4850
+exp4,Random + repair,budget=3000000,16,2270034.99,True,,309,4850
+exp4,Random + repair,budget=3000000,17,2270034.99,True,,309,4850
+exp4,Random + repair,budget=3000000,18,2270034.99,True,,22,4850
+exp4,Random + repair,budget=3000000,19,2270034.99,True,,20,4850
+exp4,Random + repair,budget=3000000,20,2270034.99,True,,15,4850
+exp4,Random + repair,budget=3000000,21,2270034.99,True,,68,4850
+exp4,Random + repair,budget=3000000,22,2270034.99,True,,60,4850
+exp4,Random + repair,budget=3000000,23,2270034.99,True,,210,4850
+exp4,Random + repair,budget=3000000,24,2270034.99,True,,83,4850
+exp4,Random + repair,budget=3000000,25,2270034.99,True,,151,4850
+exp4,Random + repair,budget=3000000,26,2270034.99,True,,12,4850
+exp4,Random + repair,budget=3000000,27,2270034.99,True,,8,4850
+exp4,Random + repair,budget=3000000,28,2270034.99,True,,42,4850
+exp4,Random + repair,budget=3000000,29,2270034.99,True,,263,4850
+exp4,GA + repair,budget=4000000,0,2982861.99,True,0.0,1,4850
+exp4,GA + repair,budget=4000000,1,2982861.99,True,1.0,59,4850
+exp4,GA + repair,budget=4000000,2,2982861.99,True,2.0,114,4850
+exp4,GA + repair,budget=4000000,3,2982861.99,True,2.0,105,4850
+exp4,GA + repair,budget=4000000,4,2982861.99,True,1.0,55,4850
+exp4,GA + repair,budget=4000000,5,2982861.99,True,2.0,117,4850
+exp4,GA + repair,budget=4000000,6,2982861.99,True,2.0,127,4850
+exp4,GA + repair,budget=4000000,7,2982861.99,True,1.0,65,4850
+exp4,GA + repair,budget=4000000,8,2982861.99,True,4.0,229,4850
+exp4,GA + repair,budget=4000000,9,2982861.99,True,3.0,162,4850
+exp4,GA + repair,budget=4000000,10,2982861.99,True,1.0,90,4850
+exp4,GA + repair,budget=4000000,11,2982861.99,True,0.0,41,4850
+exp4,GA + repair,budget=4000000,12,2982861.99,True,0.0,5,4850
+exp4,GA + repair,budget=4000000,13,2982861.99,True,1.0,51,4850
+exp4,GA + repair,budget=4000000,14,2982861.99,True,2.0,121,4850
+exp4,GA + repair,budget=4000000,15,2982861.99,True,2.0,143,4850
+exp4,GA + repair,budget=4000000,16,2982861.99,True,2.0,112,4850
+exp4,GA + repair,budget=4000000,17,2982861.99,True,0.0,42,4850
+exp4,GA + repair,budget=4000000,18,2982861.99,True,1.0,67,4850
+exp4,GA + repair,budget=4000000,19,2982861.99,True,0.0,19,4850
+exp4,GA + repair,budget=4000000,20,2982861.99,True,2.0,125,4850
+exp4,GA + repair,budget=4000000,21,2982861.99,True,2.0,138,4850
+exp4,GA + repair,budget=4000000,22,2982861.99,True,1.0,70,4850
+exp4,GA + repair,budget=4000000,23,2982861.99,True,2.0,105,4850
+exp4,GA + repair,budget=4000000,24,2982861.99,True,1.0,75,4850
+exp4,GA + repair,budget=4000000,25,2982861.99,True,1.0,63,4850
+exp4,GA + repair,budget=4000000,26,2982861.99,True,1.0,68,4850
+exp4,GA + repair,budget=4000000,27,2982861.99,True,0.0,11,4850
+exp4,GA + repair,budget=4000000,28,2982861.99,True,1.0,87,4850
+exp4,GA + repair,budget=4000000,29,2982861.99,True,0.0,45,4850
+exp4,Random,budget=4000000,0,2804571.99,False,,235,4850
+exp4,Random,budget=4000000,1,2388305.0,False,,265,4850
+exp4,Random,budget=4000000,2,2543361.99,False,,619,4850
+exp4,Random,budget=4000000,3,2517581.99,False,,4169,4850
+exp4,Random,budget=4000000,4,2582076.99,False,,3975,4850
+exp4,Random,budget=4000000,5,2217841.29,False,,2098,4850
+exp4,Random,budget=4000000,6,2386355.99,False,,235,4850
+exp4,Random,budget=4000000,7,2845695.99,False,,1593,4850
+exp4,Random,budget=4000000,8,2656383.99,False,,278,4850
+exp4,Random,budget=4000000,9,2582076.99,False,,3716,4850
+exp4,Random,budget=4000000,10,2982861.99,True,,3123,4850
+exp4,Random,budget=4000000,11,2687317.99,False,,2722,4850
+exp4,Random,budget=4000000,12,2659558.99,False,,2018,4850
+exp4,Random,budget=4000000,13,2460317.99,False,,1886,4850
+exp4,Random,budget=4000000,14,2686600.99,False,,3170,4850
+exp4,Random,budget=4000000,15,2239372.0,False,,1304,4850
+exp4,Random,budget=4000000,16,2501016.0,False,,367,4850
+exp4,Random,budget=4000000,17,2654747.99,False,,4019,4850
+exp4,Random,budget=4000000,18,2430735.99,False,,800,4850
+exp4,Random,budget=4000000,19,2378012.99,False,,3555,4850
+exp4,Random,budget=4000000,20,2271816.29,False,,1850,4850
+exp4,Random,budget=4000000,21,2641871.99,False,,639,4850
+exp4,Random,budget=4000000,22,2203685.29,False,,1277,4850
+exp4,Random,budget=4000000,23,2527959.99,False,,3812,4850
+exp4,Random,budget=4000000,24,2262646.0,False,,1436,4850
+exp4,Random,budget=4000000,25,2293572.99,False,,2319,4850
+exp4,Random,budget=4000000,26,2519790.99,False,,1197,4850
+exp4,Random,budget=4000000,27,2659069.99,False,,2849,4850
+exp4,Random,budget=4000000,28,2331482.99,False,,1039,4850
+exp4,Random,budget=4000000,29,2455287.0,False,,1823,4850
+exp4,Random + repair,budget=4000000,0,2982861.99,True,,1,4850
+exp4,Random + repair,budget=4000000,1,2982861.99,True,,89,4850
+exp4,Random + repair,budget=4000000,2,2982861.99,True,,295,4850
+exp4,Random + repair,budget=4000000,3,2982861.99,True,,130,4850
+exp4,Random + repair,budget=4000000,4,2982861.99,True,,163,4850
+exp4,Random + repair,budget=4000000,5,2982861.99,True,,151,4850
+exp4,Random + repair,budget=4000000,6,2982861.99,True,,84,4850
+exp4,Random + repair,budget=4000000,7,2982861.99,True,,536,4850
+exp4,Random + repair,budget=4000000,8,2982861.99,True,,490,4850
+exp4,Random + repair,budget=4000000,9,2982861.99,True,,532,4850
+exp4,Random + repair,budget=4000000,10,2982861.99,True,,129,4850
+exp4,Random + repair,budget=4000000,11,2982861.99,True,,41,4850
+exp4,Random + repair,budget=4000000,12,2982861.99,True,,5,4850
+exp4,Random + repair,budget=4000000,13,2982861.99,True,,94,4850
+exp4,Random + repair,budget=4000000,14,2982861.99,True,,299,4850
+exp4,Random + repair,budget=4000000,15,2982861.99,True,,131,4850
+exp4,Random + repair,budget=4000000,16,2982861.99,True,,142,4850
+exp4,Random + repair,budget=4000000,17,2982861.99,True,,42,4850
+exp4,Random + repair,budget=4000000,18,2982861.99,True,,76,4850
+exp4,Random + repair,budget=4000000,19,2982861.99,True,,19,4850
+exp4,Random + repair,budget=4000000,20,2982861.99,True,,620,4850
+exp4,Random + repair,budget=4000000,21,2982861.99,True,,108,4850
+exp4,Random + repair,budget=4000000,22,2982861.99,True,,88,4850
+exp4,Random + repair,budget=4000000,23,2982861.99,True,,174,4850
+exp4,Random + repair,budget=4000000,24,2982861.99,True,,108,4850
+exp4,Random + repair,budget=4000000,25,2982861.99,True,,114,4850
+exp4,Random + repair,budget=4000000,26,2982861.99,True,,251,4850
+exp4,Random + repair,budget=4000000,27,2982861.99,True,,11,4850
+exp4,Random + repair,budget=4000000,28,2982861.99,True,,93,4850
+exp4,Random + repair,budget=4000000,29,2982861.99,True,,45,4850
+exp5,GA,baseline,0,2270034.99,True,0.0,14,4850
+exp5,GA,baseline,1,2270034.99,True,0.0,6,4850
+exp5,GA,baseline,2,2270034.99,True,1.0,97,4850
+exp5,GA,baseline,3,2270034.99,True,1.0,69,4850
+exp5,GA,baseline,4,2270034.99,True,11.0,575,4850
+exp5,GA,baseline,5,2270034.99,True,7.0,366,4850
+exp5,GA,baseline,6,2270034.99,True,0.0,36,4850
+exp5,GA,baseline,7,2270034.99,True,0.0,8,4850
+exp5,GA,baseline,8,2270034.99,True,1.0,88,4850
+exp5,GA,baseline,9,2270034.99,True,61.0,2969,4850
+exp5,GA,baseline,10,2270034.99,True,0.0,48,4850
+exp5,GA,baseline,11,2270034.99,True,0.0,42,4850
+exp5,GA,baseline,12,2270034.99,True,0.0,6,4850
+exp5,GA,baseline,13,2270034.99,True,0.0,11,4850
+exp5,GA,baseline,14,2270034.99,True,0.0,5,4850
+exp5,GA,baseline,15,2270034.99,True,0.0,18,4850
+exp5,GA,baseline,16,2270034.99,True,22.0,1095,4850
+exp5,GA,baseline,17,2270034.99,True,2.0,135,4850
+exp5,GA,baseline,18,2270034.99,True,0.0,22,4850
+exp5,GA,baseline,19,2270034.99,True,0.0,20,4850
+exp5,GA,baseline,20,2270034.99,True,0.0,15,4850
+exp5,GA,baseline,21,2270034.99,True,1.0,53,4850
+exp5,GA,baseline,22,2270034.99,True,1.0,57,4850
+exp5,GA,baseline,23,2270034.99,True,3.0,170,4850
+exp5,GA,baseline,24,2270034.99,True,3.0,157,4850
+exp5,GA,baseline,25,2270034.99,True,2.0,133,4850
+exp5,GA,baseline,26,2270034.99,True,0.0,12,4850
+exp5,GA,baseline,27,2270034.99,True,0.0,8,4850
+exp5,GA,baseline,28,2270034.99,True,0.0,42,4850
+exp5,GA,baseline,29,2270034.99,True,1.0,96,4850
+exp5,GA,allowance 5%,0,2526034.69,False,49.0,2355,4850
+exp5,GA,allowance 5%,1,2588866.0,True,1.0,70,4850
+exp5,GA,allowance 5%,2,2588866.0,True,3.0,175,4850
+exp5,GA,allowance 5%,3,2588866.0,True,0.0,27,4850
+exp5,GA,allowance 5%,4,2588866.0,True,25.0,1241,4850
+exp5,GA,allowance 5%,5,2588866.0,True,0.0,11,4850
+exp5,GA,allowance 5%,6,2588866.0,True,5.0,266,4850
+exp5,GA,allowance 5%,7,2588866.0,True,2.0,116,4850
+exp5,GA,allowance 5%,8,2526034.69,False,26.0,1285,4850
+exp5,GA,allowance 5%,9,2588866.0,True,15.0,766,4850
+exp5,GA,allowance 5%,10,2588866.0,True,5.0,262,4850
+exp5,GA,allowance 5%,11,2588866.0,True,2.0,105,4850
+exp5,GA,allowance 5%,12,2588866.0,True,3.0,190,4850
+exp5,GA,allowance 5%,13,2588866.0,True,0.0,2,4850
+exp5,GA,allowance 5%,14,2401988.69,False,0.0,5,4850
+exp5,GA,allowance 5%,15,2588866.0,True,0.0,15,4850
+exp5,GA,allowance 5%,16,2588866.0,True,1.0,79,4850
+exp5,GA,allowance 5%,17,2588866.0,True,57.0,2739,4850
+exp5,GA,allowance 5%,18,2588866.0,True,2.0,105,4850
+exp5,GA,allowance 5%,19,2588866.0,True,0.0,35,4850
+exp5,GA,allowance 5%,20,2588866.0,True,0.0,8,4850
+exp5,GA,allowance 5%,21,2588866.0,True,0.0,31,4850
+exp5,GA,allowance 5%,22,2588866.0,True,0.0,24,4850
+exp5,GA,allowance 5%,23,2588866.0,True,0.0,37,4850
+exp5,GA,allowance 5%,24,2588866.0,True,2.0,135,4850
+exp5,GA,allowance 5%,25,2588866.0,True,0.0,44,4850
+exp5,GA,allowance 5%,26,2588866.0,True,1.0,51,4850
+exp5,GA,allowance 5%,27,2588866.0,True,0.0,27,4850
+exp5,GA,allowance 5%,28,2588866.0,True,2.0,109,4850
+exp5,GA,allowance 5%,29,2588866.0,True,0.0,46,4850
+exp5,GA,allowance 15%,0,2109116.29,True,0.0,17,4850
+exp5,GA,allowance 15%,1,2109116.29,True,0.0,15,4850
+exp5,GA,allowance 15%,2,2109116.29,True,0.0,16,4850
+exp5,GA,allowance 15%,3,2109116.29,True,6.0,325,4850
+exp5,GA,allowance 15%,4,2109116.29,True,1.0,83,4850
+exp5,GA,allowance 15%,5,2109116.29,True,3.0,174,4850
+exp5,GA,allowance 15%,6,2109116.29,True,0.0,40,4850
+exp5,GA,allowance 15%,7,2109116.29,True,0.0,3,4850
+exp5,GA,allowance 15%,8,2109116.29,True,0.0,4,4850
+exp5,GA,allowance 15%,9,2109116.29,True,1.0,51,4850
+exp5,GA,allowance 15%,10,2109116.29,True,0.0,13,4850
+exp5,GA,allowance 15%,11,2109116.29,True,0.0,3,4850
+exp5,GA,allowance 15%,12,2109116.29,True,0.0,25,4850
+exp5,GA,allowance 15%,13,2109116.29,True,0.0,3,4850
+exp5,GA,allowance 15%,14,2109116.29,True,2.0,135,4850
+exp5,GA,allowance 15%,15,2109116.29,True,0.0,45,4850
+exp5,GA,allowance 15%,16,2109116.29,True,0.0,13,4850
+exp5,GA,allowance 15%,17,2109116.29,True,2.0,102,4850
+exp5,GA,allowance 15%,18,2109116.29,True,1.0,63,4850
+exp5,GA,allowance 15%,19,2109116.29,True,3.0,158,4850
+exp5,GA,allowance 15%,20,2109116.29,True,0.0,39,4850
+exp5,GA,allowance 15%,21,2109116.29,True,0.0,48,4850
+exp5,GA,allowance 15%,22,2109116.29,True,0.0,21,4850
+exp5,GA,allowance 15%,23,2109116.29,True,1.0,97,4850
+exp5,GA,allowance 15%,24,2109116.29,True,0.0,39,4850
+exp5,GA,allowance 15%,25,2109116.29,True,12.0,589,4850
+exp5,GA,allowance 15%,26,2109116.29,True,0.0,22,4850
+exp5,GA,allowance 15%,27,2109116.29,True,0.0,17,4850
+exp5,GA,allowance 15%,28,2109116.29,True,0.0,2,4850
+exp5,GA,allowance 15%,29,2109116.29,True,1.0,76,4850
+exp5,GA,"NB £2,500/m²",0,1970384.8900000001,True,2.0,121,4850
+exp5,GA,"NB £2,500/m²",1,1970384.8900000001,True,1.0,75,4850
+exp5,GA,"NB £2,500/m²",2,1970384.8900000001,True,0.0,4,4850
+exp5,GA,"NB £2,500/m²",3,1970384.8900000001,True,0.0,30,4850
+exp5,GA,"NB £2,500/m²",4,1970384.8900000001,True,0.0,10,4850
+exp5,GA,"NB £2,500/m²",5,1970384.8900000001,True,0.0,8,4850
+exp5,GA,"NB £2,500/m²",6,1970384.8900000001,True,0.0,27,4850
+exp5,GA,"NB £2,500/m²",7,1970384.8900000001,True,0.0,30,4850
+exp5,GA,"NB £2,500/m²",8,1970384.8900000001,True,0.0,23,4850
+exp5,GA,"NB £2,500/m²",9,1970384.8900000001,True,0.0,3,4850
+exp5,GA,"NB £2,500/m²",10,1970384.8900000001,True,3.0,157,4850
+exp5,GA,"NB £2,500/m²",11,1970384.8900000001,True,0.0,19,4850
+exp5,GA,"NB £2,500/m²",12,1970384.8900000001,True,0.0,29,4850
+exp5,GA,"NB £2,500/m²",13,1970384.8900000001,True,0.0,27,4850
+exp5,GA,"NB £2,500/m²",14,1970384.8900000001,True,3.0,170,4850
+exp5,GA,"NB £2,500/m²",15,1970384.8900000001,True,10.0,499,4850
+exp5,GA,"NB £2,500/m²",16,1970384.8900000001,True,22.0,1087,4850
+exp5,GA,"NB £2,500/m²",17,1970384.8900000001,True,0.0,30,4850
+exp5,GA,"NB £2,500/m²",18,1970384.8900000001,True,0.0,8,4850
+exp5,GA,"NB £2,500/m²",19,1970384.8900000001,True,0.0,25,4850
+exp5,GA,"NB £2,500/m²",20,1970384.8900000001,True,0.0,32,4850
+exp5,GA,"NB £2,500/m²",21,1970384.8900000001,True,0.0,28,4850
+exp5,GA,"NB £2,500/m²",22,1970384.8900000001,True,1.0,83,4850
+exp5,GA,"NB £2,500/m²",23,1970384.8900000001,True,0.0,27,4850
+exp5,GA,"NB £2,500/m²",24,1970384.8900000001,True,0.0,34,4850
+exp5,GA,"NB £2,500/m²",25,1970384.8900000001,True,0.0,22,4850
+exp5,GA,"NB £2,500/m²",26,1970384.8900000001,True,1.0,71,4850
+exp5,GA,"NB £2,500/m²",27,1970384.8900000001,True,0.0,24,4850
+exp5,GA,"NB £2,500/m²",28,1970384.8900000001,True,1.0,86,4850
+exp5,GA,"NB £2,500/m²",29,1970384.8900000001,True,1.0,90,4850
+exp5,GA,"NB £2,800/m²",0,1587836.0,True,6.0,311,4850
+exp5,GA,"NB £2,800/m²",1,1587836.0,True,0.0,50,4850
+exp5,GA,"NB £2,800/m²",2,1587836.0,True,0.0,8,4850
+exp5,GA,"NB £2,800/m²",3,1587836.0,True,2.0,122,4850
+exp5,GA,"NB £2,800/m²",4,1587836.0,True,9.0,449,4850
+exp5,GA,"NB £2,800/m²",5,1587836.0,True,2.0,136,4850
+exp5,GA,"NB £2,800/m²",6,1587836.0,True,19.0,938,4850
+exp5,GA,"NB £2,800/m²",7,1587836.0,True,2.0,114,4850
+exp5,GA,"NB £2,800/m²",8,1587836.0,True,3.0,193,4850
+exp5,GA,"NB £2,800/m²",9,1587836.0,True,0.0,25,4850
+exp5,GA,"NB £2,800/m²",10,1587836.0,True,13.0,636,4850
+exp5,GA,"NB £2,800/m²",11,1587836.0,True,2.0,141,4850
+exp5,GA,"NB £2,800/m²",12,1587836.0,True,2.0,145,4850
+exp5,GA,"NB £2,800/m²",13,1587836.0,True,1.0,75,4850
+exp5,GA,"NB £2,800/m²",14,1587836.0,True,1.0,88,4850
+exp5,GA,"NB £2,800/m²",15,1587836.0,True,0.0,13,4850
+exp5,GA,"NB £2,800/m²",16,1587836.0,True,0.0,42,4850
+exp5,GA,"NB £2,800/m²",17,1587836.0,True,10.0,509,4850
+exp5,GA,"NB £2,800/m²",18,1587836.0,True,1.0,54,4850
+exp5,GA,"NB £2,800/m²",19,1587836.0,True,1.0,83,4850
+exp5,GA,"NB £2,800/m²",20,1587836.0,True,3.0,150,4850
+exp5,GA,"NB £2,800/m²",21,1587836.0,True,16.0,806,4850
+exp5,GA,"NB £2,800/m²",22,1587836.0,True,8.0,408,4850
+exp5,GA,"NB £2,800/m²",23,1587836.0,True,0.0,21,4850
+exp5,GA,"NB £2,800/m²",24,1587836.0,True,0.0,28,4850
+exp5,GA,"NB £2,800/m²",25,1587836.0,True,0.0,34,4850
+exp5,GA,"NB £2,800/m²",26,1587836.0,True,3.0,153,4850
+exp5,GA,"NB £2,800/m²",27,1587836.0,True,0.0,43,4850
+exp5,GA,"NB £2,800/m²",28,1587836.0,True,0.0,13,4850
+exp5,GA,"NB £2,800/m²",29,1587836.0,True,8.0,431,4850
+exp5,GA,land ×1.25,0,1932454.99,True,0.0,6,4850
+exp5,GA,land ×1.25,1,1932454.99,True,0.0,15,4850
+exp5,GA,land ×1.25,2,1932454.99,True,0.0,36,4850
+exp5,GA,land ×1.25,3,1932454.99,True,1.0,64,4850
+exp5,GA,land ×1.25,4,1932454.99,True,2.0,135,4850
+exp5,GA,land ×1.25,5,1932454.99,True,1.0,56,4850
+exp5,GA,land ×1.25,6,1932454.99,True,0.0,11,4850
+exp5,GA,land ×1.25,7,1932454.99,True,1.0,55,4850
+exp5,GA,land ×1.25,8,1932454.99,True,6.0,292,4850
+exp5,GA,land ×1.25,9,1932454.99,True,0.0,2,4850
+exp5,GA,land ×1.25,10,1932454.99,True,0.0,13,4850
+exp5,GA,land ×1.25,11,1932454.99,True,0.0,3,4850
+exp5,GA,land ×1.25,12,1932454.99,True,0.0,25,4850
+exp5,GA,land ×1.25,13,1932454.99,True,0.0,44,4850
+exp5,GA,land ×1.25,14,1932454.99,True,0.0,44,4850
+exp5,GA,land ×1.25,15,1932454.99,True,0.0,10,4850
+exp5,GA,land ×1.25,16,1932454.99,True,0.0,27,4850
+exp5,GA,land ×1.25,17,1932454.99,True,0.0,16,4850
+exp5,GA,land ×1.25,18,1932454.99,True,16.0,807,4850
+exp5,GA,land ×1.25,19,1932454.99,True,0.0,18,4850
+exp5,GA,land ×1.25,20,1932454.99,True,3.0,158,4850
+exp5,GA,land ×1.25,21,1932454.99,True,0.0,48,4850
+exp5,GA,land ×1.25,22,1932454.99,True,0.0,21,4850
+exp5,GA,land ×1.25,23,1932454.99,True,1.0,97,4850
+exp5,GA,land ×1.25,24,1932454.99,True,0.0,39,4850
+exp5,GA,land ×1.25,25,1932454.99,True,2.0,133,4850
+exp5,GA,land ×1.25,26,1932454.99,True,12.0,604,4850
+exp5,GA,land ×1.25,27,1932454.99,True,1.0,77,4850
+exp5,GA,land ×1.25,28,1932454.99,True,0.0,2,4850
+exp5,GA,land ×1.25,29,1932454.99,True,0.0,28,4850
+exp5,GA,land ×1.50,0,1581715.0,True,0.0,40,4850
+exp5,GA,land ×1.50,1,1581715.0,True,1.0,70,4850
+exp5,GA,land ×1.50,2,1581715.0,True,0.0,10,4850
+exp5,GA,land ×1.50,3,1581715.0,True,0.0,27,4850
+exp5,GA,land ×1.50,4,1581715.0,True,80.0,3881,4850
+exp5,GA,land ×1.50,5,1581715.0,True,0.0,11,4850
+exp5,GA,land ×1.50,6,1581715.0,True,3.0,184,4850
+exp5,GA,land ×1.50,7,1581715.0,True,0.0,12,4850
+exp5,GA,land ×1.50,8,1581715.0,True,8.0,413,4850
+exp5,GA,land ×1.50,9,1581715.0,True,23.0,1134,4850
+exp5,GA,land ×1.50,10,1581715.0,True,5.0,245,4850
+exp5,GA,land ×1.50,11,1498733.99,False,0.0,34,4850
+exp5,GA,land ×1.50,12,1581715.0,True,0.0,24,4850
+exp5,GA,land ×1.50,13,1581715.0,True,0.0,2,4850
+exp5,GA,land ×1.50,14,1581715.0,True,0.0,34,4850
+exp5,GA,land ×1.50,15,1581715.0,True,0.0,15,4850
+exp5,GA,land ×1.50,16,1581715.0,True,0.0,12,4850
+exp5,GA,land ×1.50,17,1581715.0,True,57.0,2739,4850
+exp5,GA,land ×1.50,18,1581715.0,True,1.0,97,4850
+exp5,GA,land ×1.50,19,1581715.0,True,0.0,35,4850
+exp5,GA,land ×1.50,20,1581715.0,True,0.0,2,4850
+exp5,GA,land ×1.50,21,1581715.0,True,0.0,31,4850
+exp5,GA,land ×1.50,22,1581715.0,True,0.0,24,4850
+exp5,GA,land ×1.50,23,1581715.0,True,0.0,37,4850
+exp5,GA,land ×1.50,24,1581715.0,True,62.0,2984,4850
+exp5,GA,land ×1.50,25,1581715.0,True,0.0,44,4850
+exp5,GA,land ×1.50,26,1581715.0,True,3.0,150,4850
+exp5,GA,land ×1.50,27,1581715.0,True,0.0,27,4850
+exp5,GA,land ×1.50,28,1581715.0,True,40.0,1944,4850
+exp5,GA,land ×1.50,29,1581715.0,True,0.0,46,4850
+exp5,GA,land ×2.00,0,1138023.99,True,0.0,1,4850
+exp5,GA,land ×2.00,1,1138023.99,True,0.0,7,4850
+exp5,GA,land ×2.00,2,1138023.99,True,0.0,9,4850
+exp5,GA,land ×2.00,3,1138023.99,True,0.0,9,4850
+exp5,GA,land ×2.00,4,1138023.99,True,0.0,32,4850
+exp5,GA,land ×2.00,5,1138023.99,True,0.0,26,4850
+exp5,GA,land ×2.00,6,1138023.99,True,0.0,11,4850
+exp5,GA,land ×2.00,7,1138023.99,True,0.0,18,4850
+exp5,GA,land ×2.00,8,1138023.99,True,1.0,78,4850
+exp5,GA,land ×2.00,9,1138023.99,True,0.0,2,4850
+exp5,GA,land ×2.00,10,1138023.99,True,0.0,13,4850
+exp5,GA,land ×2.00,11,1138023.99,True,0.0,3,4850
+exp5,GA,land ×2.00,12,1138023.99,True,0.0,5,4850
+exp5,GA,land ×2.00,13,1138023.99,True,0.0,8,4850
+exp5,GA,land ×2.00,14,1138023.99,True,0.0,2,4850
+exp5,GA,land ×2.00,15,1138023.99,True,0.0,10,4850
+exp5,GA,land ×2.00,16,1138023.99,True,0.0,27,4850
+exp5,GA,land ×2.00,17,1138023.99,True,0.0,16,4850
+exp5,GA,land ×2.00,18,1138023.99,True,0.0,21,4850
+exp5,GA,land ×2.00,19,1138023.99,True,0.0,8,4850
+exp5,GA,land ×2.00,20,1138023.99,True,0.0,1,4850
+exp5,GA,land ×2.00,21,1138023.99,True,0.0,48,4850
+exp5,GA,land ×2.00,22,1138023.99,True,0.0,21,4850
+exp5,GA,land ×2.00,23,1138023.99,True,1.0,97,4850
+exp5,GA,land ×2.00,24,1138023.99,True,0.0,32,4850
+exp5,GA,land ×2.00,25,1138023.99,True,1.0,64,4850
+exp5,GA,land ×2.00,26,1138023.99,True,0.0,15,4850
+exp5,GA,land ×2.00,27,1138023.99,True,0.0,8,4850
+exp5,GA,land ×2.00,28,1138023.99,True,0.0,2,4850
+exp5,GA,land ×2.00,29,1138023.99,True,0.0,19,4850
+exp5,GA,GDV −10%,0,1752733.35,True,0.0,14,4850
+exp5,GA,GDV −10%,1,1752733.35,True,0.0,6,4850
+exp5,GA,GDV −10%,2,1752733.35,True,1.0,97,4850
+exp5,GA,GDV −10%,3,1752733.35,True,1.0,69,4850
+exp5,GA,GDV −10%,4,1752733.35,True,11.0,575,4850
+exp5,GA,GDV −10%,5,1752733.35,True,7.0,366,4850
+exp5,GA,GDV −10%,6,1752733.35,True,0.0,36,4850
+exp5,GA,GDV −10%,7,1752733.35,True,0.0,8,4850
+exp5,GA,GDV −10%,8,1752733.35,True,1.0,88,4850
+exp5,GA,GDV −10%,9,1752733.35,True,61.0,2969,4850
+exp5,GA,GDV −10%,10,1752733.35,True,0.0,48,4850
+exp5,GA,GDV −10%,11,1752733.35,True,0.0,42,4850
+exp5,GA,GDV −10%,12,1752733.35,True,0.0,6,4850
+exp5,GA,GDV −10%,13,1752733.35,True,0.0,11,4850
+exp5,GA,GDV −10%,14,1752733.35,True,0.0,5,4850
+exp5,GA,GDV −10%,15,1752733.35,True,0.0,18,4850
+exp5,GA,GDV −10%,16,1752733.35,True,12.0,607,4850
+exp5,GA,GDV −10%,17,1752733.35,True,2.0,135,4850
+exp5,GA,GDV −10%,18,1752733.35,True,0.0,22,4850
+exp5,GA,GDV −10%,19,1752733.35,True,0.0,20,4850
+exp5,GA,GDV −10%,20,1752733.35,True,0.0,15,4850
+exp5,GA,GDV −10%,21,1752733.35,True,4.0,195,4850
+exp5,GA,GDV −10%,22,1752733.35,True,1.0,57,4850
+exp5,GA,GDV −10%,23,1752733.35,True,3.0,170,4850
+exp5,GA,GDV −10%,24,1752733.35,True,3.0,157,4850
+exp5,GA,GDV −10%,25,1752733.35,True,2.0,133,4850
+exp5,GA,GDV −10%,26,1752733.35,True,0.0,12,4850
+exp5,GA,GDV −10%,27,1752733.35,True,0.0,8,4850
+exp5,GA,GDV −10%,28,1752733.35,True,0.0,42,4850
+exp5,GA,GDV −10%,29,1752733.35,True,1.0,96,4850
+exp5,GA,GDV +10%,0,2787336.6300000004,False,0.0,14,4850
+exp5,GA,GDV +10%,1,2793852.6,True,0.0,50,4850
+exp5,GA,GDV +10%,2,2793852.6,True,0.0,8,4850
+exp5,GA,GDV +10%,3,2787336.6300000004,False,1.0,88,4850
+exp5,GA,GDV +10%,4,2787336.6300000004,False,11.0,575,4850
+exp5,GA,GDV +10%,5,2787336.6300000004,False,7.0,366,4850
+exp5,GA,GDV +10%,6,2793852.6,True,7.0,378,4850
+exp5,GA,GDV +10%,7,2787336.6300000004,False,0.0,8,4850
+exp5,GA,GDV +10%,8,2793852.6,True,1.0,59,4850
+exp5,GA,GDV +10%,9,2793852.6,True,0.0,25,4850
+exp5,GA,GDV +10%,10,2787336.6300000004,False,0.0,48,4850
+exp5,GA,GDV +10%,11,2787336.6300000004,False,0.0,42,4850
+exp5,GA,GDV +10%,12,2787336.6300000004,False,0.0,6,4850
+exp5,GA,GDV +10%,13,2787336.6300000004,False,0.0,11,4850
+exp5,GA,GDV +10%,14,2787336.6300000004,False,0.0,5,4850
+exp5,GA,GDV +10%,15,2787336.6300000004,False,0.0,18,4850
+exp5,GA,GDV +10%,16,2787336.6300000004,False,22.0,1095,4850
+exp5,GA,GDV +10%,17,2787336.6300000004,False,2.0,135,4850
+exp5,GA,GDV +10%,18,2787336.6300000004,False,0.0,22,4850
+exp5,GA,GDV +10%,19,2787336.6300000004,False,0.0,20,4850
+exp5,GA,GDV +10%,20,2787336.6300000004,False,0.0,15,4850
+exp5,GA,GDV +10%,21,2793852.6,True,23.0,1148,4850
+exp5,GA,GDV +10%,22,2787336.6300000004,False,1.0,57,4850
+exp5,GA,GDV +10%,23,2793852.6,True,1.0,86,4850
+exp5,GA,GDV +10%,24,2793852.6,True,0.0,36,4850
+exp5,GA,GDV +10%,25,2787336.6300000004,False,2.0,133,4850
+exp5,GA,GDV +10%,26,2787336.6300000004,False,0.0,12,4850
+exp5,GA,GDV +10%,27,2793852.6,True,0.0,43,4850
+exp5,GA,GDV +10%,28,2793852.6,True,0.0,13,4850
+exp5,GA,GDV +10%,29,2787336.6300000004,False,1.0,96,4850
+exp5,GA,GDV top quartile,0,3013928.2,False,0.0,17,4850
+exp5,GA,GDV top quartile,1,3049090.0,True,0.0,50,4850
+exp5,GA,GDV top quartile,2,3049090.0,True,0.0,8,4850
+exp5,GA,GDV top quartile,3,3013928.2,False,3.0,164,4850
+exp5,GA,GDV top quartile,4,3013928.2,False,1.0,83,4850
+exp5,GA,GDV top quartile,5,3013928.2,False,17.0,834,4850
+exp5,GA,GDV top quartile,6,3049090.0,True,7.0,378,4850
+exp5,GA,GDV top quartile,7,3013928.2,False,0.0,3,4850
+exp5,GA,GDV top quartile,8,3049090.0,True,1.0,59,4850
+exp5,GA,GDV top quartile,9,3049090.0,True,0.0,25,4850
+exp5,GA,GDV top quartile,10,3013928.2,False,0.0,37,4850
+exp5,GA,GDV top quartile,11,3013928.2,False,1.0,63,4850
+exp5,GA,GDV top quartile,12,3013928.2,False,0.0,34,4850
+exp5,GA,GDV top quartile,13,3049090.0,True,12.0,590,4850
+exp5,GA,GDV top quartile,14,3013928.2,False,3.0,159,4850
+exp5,GA,GDV top quartile,15,3013928.2,False,2.0,107,4850
+exp5,GA,GDV top quartile,16,3049090.0,True,2.0,114,4850
+exp5,GA,GDV top quartile,17,3013928.2,False,2.0,102,4850
+exp5,GA,GDV top quartile,18,3013928.2,False,1.0,63,4850
+exp5,GA,GDV top quartile,19,3049090.0,True,1.0,78,4850
+exp5,GA,GDV top quartile,20,3013928.2,False,0.0,39,4850
+exp5,GA,GDV top quartile,21,3049090.0,True,23.0,1148,4850
+exp5,GA,GDV top quartile,22,3049090.0,True,8.0,408,4850
+exp5,GA,GDV top quartile,23,3049090.0,True,2.0,103,4850
+exp5,GA,GDV top quartile,24,3049090.0,True,0.0,36,4850
+exp5,GA,GDV top quartile,25,3049090.0,True,4.0,222,4850
+exp5,GA,GDV top quartile,26,3013928.2,False,0.0,22,4850
+exp5,GA,GDV top quartile,27,3049090.0,True,0.0,43,4850
+exp5,GA,GDV top quartile,28,3049090.0,True,0.0,13,4850
+exp5,GA,GDV top quartile,29,3013928.2,False,4.0,215,4850
