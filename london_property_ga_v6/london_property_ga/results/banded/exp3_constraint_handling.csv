@@ -1,3 +1,0 @@
-constraint,n_runs,mean_profit,std_profit,best_profit,worst_profit,hit_rate,mean_gap_pct,mean_evals_to_best,evaluations,mean_best_generation,mean_time_s
-penalty,30,764564.5,0.0,764564.5,764564.5,1.0,0.0,568.8333333333334,4850,11.3,0.15112850133349032
-repair,30,764564.5,0.0,764564.5,764564.5,1.0,0.0,74.53333333333333,4850,1.0333333333333334,0.1820610990000811

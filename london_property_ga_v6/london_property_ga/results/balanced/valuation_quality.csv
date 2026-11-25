@@ -1,5 +1,0 @@
-group,projects,low_confidence,no_postcode_district,borough_comparables,all_type_comparables,few_comparables,ndss_floor_area,project_ids,optimal_profit
-shortlist,20,8,1,2,0,6,0,R01 R07 R08 R10 R11 N02 N04 N07,
-optimum at £3m,4,2,0,0,0,2,0,R01 N02,878921.0
-optimum without warned projects,4,0,0,0,0,0,0,R01 R07 R08 R10 R11 N02 N04 N07 removed,689909.5
-optimum without no-postcode projects,4,2,0,0,0,2,0,N07 removed,878921.0
